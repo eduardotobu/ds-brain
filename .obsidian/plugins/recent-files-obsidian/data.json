@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Logistic Regression",
+      "path": "Logistic Regression.md"
+    },
+    {
+      "basename": "Example Concepts - Gradient Descent",
+      "path": "Templates/Example Concepts - Gradient Descent.md"
+    },
+    {
+      "basename": "Gradient Boosting Machines",
+      "path": "Gradient Boosting Machines.md"
+    },
+    {
       "basename": "Random Forest",
       "path": "Random Forest.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Untitled",
       "path": "Machine Learning/Concepts/Untitled.md"
-    },
-    {
-      "basename": "Example Concepts - Gradient Descent",
-      "path": "Templates/Example Concepts - Gradient Descent.md"
     },
     {
       "basename": "Untitled",
