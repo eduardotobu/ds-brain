@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Example Concepts - Gradient Descent",
+      "path": "Templates/Example Concepts - Gradient Descent.md"
+    },
+    {
+      "basename": "Newton's Method",
+      "path": "Newton's Method.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Machine Learning/Models/Untitled.md"
     },
     {
       "basename": "ML Models",
       "path": "Templates/ML Models.md"
+    },
+    {
+      "basename": "a ver como jala esto",
+      "path": "a ver como jala esto.md"
     },
     {
       "basename": "ML Concepts",
@@ -19,10 +31,6 @@
     {
       "basename": "Untitled",
       "path": "Machine Learning/Concepts/Untitled.md"
-    },
-    {
-      "basename": "Example Concepts - Gradient Descent",
-      "path": "Templates/Example Concepts - Gradient Descent.md"
     }
   ],
   "omittedPaths": [],
