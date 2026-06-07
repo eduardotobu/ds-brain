@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Example Concepts - Gradient Descent",
-      "path": "Templates/Example Concepts - Gradient Descent.md"
+      "basename": "Random Forest",
+      "path": "Random Forest.md"
     },
     {
-      "basename": "Newton's Method",
-      "path": "Newton's Method.md"
+      "basename": "Bias-Variance Tradeoff",
+      "path": "Bias-Variance Tradeoff.md"
+    },
+    {
+      "basename": "Example Models - Linear Regression",
+      "path": "Templates/Example Models - Linear Regression.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Machine Learning/Concepts/Untitled.md"
+    },
+    {
+      "basename": "Example Concepts - Gradient Descent",
+      "path": "Templates/Example Concepts - Gradient Descent.md"
     },
     {
       "basename": "Untitled",
@@ -17,20 +29,8 @@
       "path": "Templates/ML Models.md"
     },
     {
-      "basename": "a ver como jala esto",
-      "path": "a ver como jala esto.md"
-    },
-    {
       "basename": "ML Concepts",
       "path": "Templates/ML Concepts.md"
-    },
-    {
-      "basename": "Example Models - Linear Regression",
-      "path": "Templates/Example Models - Linear Regression.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Machine Learning/Concepts/Untitled.md"
     }
   ],
   "omittedPaths": [],
