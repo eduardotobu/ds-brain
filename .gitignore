@@ -1,18 +1,8 @@
-# Exclude Obsidian's internal workspace configuration (Crucial!)
+# Obsidian workspace state (machine-specific, noisy diffs)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/cache
 
-# Exclude community plugin caches and specific setups you don't need to sync
-.obsidian/plugins/*/data.json
-.obsidian/cache/
-
-# Optional: Exclude ALL obsidian settings if you want to configure each device manually
-# .obsidian/
-
-# Exclude OS-specific junk files
+# OS noise
 .DS_Store
 Thumbs.db
-
-# Exclude python/data science junk if you run scripts inside your vault
-__pycache__/
-.ipynb_checkpoints/
