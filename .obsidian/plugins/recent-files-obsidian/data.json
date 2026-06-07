@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Machine Learning/Concepts/Untitled.md"
+      "basename": "Machine Learning MOC",
+      "path": "Machine Learning/MOCs/Machine Learning MOC.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Machine Learning/Notes/Untitled 1.md"
     },
     {
       "basename": "Untitled",
-      "path": "Machine Learning/Models/Untitled.md"
+      "path": "Machine Learning/Notes/Untitled.md"
     },
     {
-      "basename": "ML Concepts",
-      "path": "Templates/ML Concepts.md"
+      "basename": "Concept Note",
+      "path": "Templates/Concept Note.md"
     },
     {
-      "basename": "Example Concepts - Gradient Descent",
-      "path": "Templates/Example Concepts - Gradient Descent.md"
+      "basename": "README",
+      "path": "Templates/README.md"
     },
     {
-      "basename": "ML Models",
-      "path": "Templates/ML Models.md"
+      "basename": "Research Log",
+      "path": "Templates/Research Log.md"
     },
     {
-      "basename": "Example Models - Linear Regression",
-      "path": "Templates/Example Models - Linear Regression.md"
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "MOC - Example",
+      "path": "Templates/examples/MOC - Example.md"
+    },
+    {
+      "basename": "Fleeting Note",
+      "path": "Templates/Fleeting Note.md"
+    },
+    {
+      "basename": "Experiment Log - Example",
+      "path": "Templates/examples/Experiment Log - Example.md"
+    },
+    {
+      "basename": "Concept Note - Example",
+      "path": "Templates/examples/Concept Note - Example.md"
     }
   ],
   "omittedPaths": [],
