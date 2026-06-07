@@ -1,13 +1,16 @@
 ---
 title: "{{title}}"
 type: concept
-domain:        # e.g. supervised learning, optimization, statistics, deep learning
-subfield:      # e.g. regularization, probability, information theory
-difficulty:    # beginner / intermediate / advanced
-status: seed   # seed / growing / evergreen
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
-tags: [ml/concept]
+domain:
+subfield:
+difficulty:
+status: seed
+created:
+  "{ date:YYYY-MM-DD }":
+updated:
+  "{ date:YYYY-MM-DD }":
+tags:
+  - ml/concept
 aliases: []
 ---
 
@@ -74,6 +77,3 @@ $$
 - 📚 Book / chapter —
 - 🎥 Lecture / video —
 - 🔗 Blog / docs —
-
-## Revisit Log
-- {{date:YYYY-MM-DD}} — created

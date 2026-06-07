@@ -1,13 +1,14 @@
 ---
-title: "Untitled"
+title: Untitled
 type: concept
-domain:        # e.g. supervised learning, optimization, statistics, deep learning
-subfield:      # e.g. regularization, probability, information theory
-difficulty:    # beginner / intermediate / advanced
-status: seed   # seed / growing / evergreen
+domain:
+subfield:
+difficulty:
+status: seed
 created: 2026-06-07
 updated: 2026-06-07
-tags: [ml/concept]
+tags:
+  - ml/concept
 aliases: []
 ---
 
