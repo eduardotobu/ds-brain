@@ -64,7 +64,7 @@ predictions = model.predict(X_test)
 ## Connections
 
 - Prerequisites: [[Basic Programming]], [[Mathematics for Machine Learning MOC]]
-- Used by: [[Supervised Learning MOC]], [[Deep Learning MOC]]
+- Used by: [[Supervised Learning MOC]], [[Unsupervised Learning MOC]], [[Reinforcement Learning MOC]] 
 - Related: [[Statistics]], [[Artificial Intelligence MOC]]
 - Contrast with: [[Traditional Software Engineering]], [[Symbolic AI]]
 
