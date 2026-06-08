@@ -8,6 +8,7 @@ tags:
   - ml
   - supervised-learning
 type: moc
+status: 🌱 seedling
 ---
 
 # Supervised Learning MOC
