@@ -16,7 +16,7 @@ area: fundamentals
 ## Definition
 
 Machine learning as a discipline aims to design understand and apply computer programs that learn from experience (i.e., data) for the purpose of modeling, prediction, or control.
-
+a
 ## Intuition
 
 In traditional programming, you provide the computer with data and explicit rules (code) to output an answer. In machine learning, you provide the computer with data and the *answers*, and the system outputs the *rules*. For example, instead of writing complex geometric rules to identify a cat in a photo, you feed the system thousands of images labeled "cat" and "not cat," allowing it to discover the distinguishing features on its own.
