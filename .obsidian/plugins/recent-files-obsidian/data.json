@@ -5,16 +5,32 @@
       "path": "Machine Learning/MOCs/Supervised Learning MOC.md"
     },
     {
+      "basename": "Machine Learning MOC",
+      "path": "Machine Learning/MOCs/Machine Learning MOC.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Machine Learning/MOCs/Untitled.md"
+    },
+    {
+      "basename": "MOC - Example",
+      "path": "Templates/examples/MOC - Example.md"
+    },
+    {
+      "basename": "Experiment Log - Example",
+      "path": "Templates/examples/Experiment Log - Example.md"
+    },
+    {
+      "basename": "Concept Note - Example",
+      "path": "Templates/examples/Concept Note - Example.md"
+    },
+    {
       "basename": "MOC",
       "path": "Templates/MOC.md"
     },
     {
       "basename": "Concept Note",
       "path": "Templates/Concept Note.md"
-    },
-    {
-      "basename": "Machine Learning MOC",
-      "path": "Machine Learning/MOCs/Machine Learning MOC.md"
     },
     {
       "basename": "What is Machine Learning",
@@ -49,20 +65,8 @@
       "path": "Templates/Experiment Log.md"
     },
     {
-      "basename": "MOC - Example",
-      "path": "Templates/examples/MOC - Example.md"
-    },
-    {
       "basename": "Fleeting Note - Example",
       "path": "Templates/examples/Fleeting Note - Example.md"
-    },
-    {
-      "basename": "Concept Note - Example",
-      "path": "Templates/examples/Concept Note - Example.md"
-    },
-    {
-      "basename": "Experiment Log - Example",
-      "path": "Templates/examples/Experiment Log - Example.md"
     }
   ],
   "omittedPaths": [],
