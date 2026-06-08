@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Concept Note",
+      "path": "Templates/Concept Note.md"
+    },
+    {
+      "basename": "Supervised Learning MOC",
+      "path": "Machine Learning/MOCs/Supervised Learning MOC.md"
+    },
+    {
       "basename": "Machine Learning MOC",
       "path": "Machine Learning/MOCs/Machine Learning MOC.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Machine Learning/Notes/Untitled 1.md"
+      "basename": "What is Machine Learning",
+      "path": "Machine Learning/Notes/What is Machine Learning.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Machine Learning/Notes/Untitled.md"
+      "basename": "Research Question",
+      "path": "Templates/Research Question.md"
     },
     {
-      "basename": "Concept Note",
-      "path": "Templates/Concept Note.md"
+      "basename": "Research Log",
+      "path": "Templates/Research Log.md"
     },
     {
       "basename": "README",
       "path": "Templates/README.md"
     },
     {
-      "basename": "Research Log",
-      "path": "Templates/Research Log.md"
+      "basename": "Paper Note",
+      "path": "Templates/Paper Note.md"
+    },
+    {
+      "basename": "Model Card",
+      "path": "Templates/Model Card.md"
+    },
+    {
+      "basename": "Fleeting Note",
+      "path": "Templates/Fleeting Note.md"
+    },
+    {
+      "basename": "Experiment Log",
+      "path": "Templates/Experiment Log.md"
     },
     {
       "basename": "MOC",
@@ -33,16 +53,16 @@
       "path": "Templates/examples/MOC - Example.md"
     },
     {
-      "basename": "Fleeting Note",
-      "path": "Templates/Fleeting Note.md"
-    },
-    {
-      "basename": "Experiment Log - Example",
-      "path": "Templates/examples/Experiment Log - Example.md"
+      "basename": "Fleeting Note - Example",
+      "path": "Templates/examples/Fleeting Note - Example.md"
     },
     {
       "basename": "Concept Note - Example",
       "path": "Templates/examples/Concept Note - Example.md"
+    },
+    {
+      "basename": "Experiment Log - Example",
+      "path": "Templates/examples/Experiment Log - Example.md"
     }
   ],
   "omittedPaths": [],

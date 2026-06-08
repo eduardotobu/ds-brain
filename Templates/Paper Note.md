@@ -1,17 +1,20 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
+id:
+  "{ date:YYYYMMDDHHmm }":
 title: "{{title}}"
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created:
+  "{ date:YYYY-MM-DD }":
+updated:
+  "{ date:YYYY-MM-DD }":
 tags:
   - paper
   - ml
 type: paper
-status: seedling
-authors: 
-year: 
-venue: 
-url: 
+status: 🌱 seedling
+authors:
+year:
+venue:
+url:
 ---
 
 # {{title}}

@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "/attachments",
-  "promptDelete": false
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Machine Learning/Notes"
 }

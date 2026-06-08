@@ -1,15 +1,18 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
+id:
+  "{ date:YYYYMMDDHHmm }":
 title: "{{title}}"
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created:
+  "{ date:YYYY-MM-DD }":
+updated:
+  "{ date:YYYY-MM-DD }":
 tags:
   - model
   - ml
 type: model
-status: seedling
-task_type: 
-family: 
+status: 🌱 seedling
+task_type:
+family:
 ---
 
 # {{title}}

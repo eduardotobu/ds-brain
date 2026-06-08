@@ -1,16 +1,19 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
+id:
+  "{ date:YYYYMMDDHHmm }":
 title: "{{title}}"
-created: {{date:YYYY-MM-DD}}
-updated: {{date:YYYY-MM-DD}}
+created:
+  "{ date:YYYY-MM-DD }":
+updated:
+  "{ date:YYYY-MM-DD }":
 tags:
   - experiment
   - ml
 type: experiment
 status: active
-project: 
-dataset: 
-framework: 
+project:
+dataset:
+framework:
 ---
 
 # {{title}}

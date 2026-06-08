@@ -1,19 +1,19 @@
 ---
-id:
-  "{ date:YYYYMMDDHHmm }":
-title: "{{title}}"
-created:
-  "{ date:YYYY-MM-DD }":
-updated:
-  "{ date:YYYY-MM-DD }":
+id: 202606071811
+title: Supervised Learning MOC
+created: 2026-06-07
+updated: 2026-06-07
 tags:
   - moc
   - ml
+  - supervised-learning
 type: moc
-status: 🌱 seedling
 ---
 
-# {{title}}
+# Supervised Learning MOC
+
+## Notas Previas
+Podemos aprender a resolver
 
 ## Overview
 

@@ -1,7 +1,9 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
+id:
+  "{ date:YYYYMMDDHHmm }":
 title: "{{title}}"
-created: {{date:YYYY-MM-DD HH:mm}}
+created:
+  "{ date:YYYY-MM-DD HH:mm }":
 tags:
   - fleeting
   - ml
