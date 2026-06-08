@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "Model Card",
+      "path": "Templates/Model Card.md"
+    },
+    {
+      "basename": "Paper Note",
+      "path": "Templates/Paper Note.md"
+    },
+    {
+      "basename": "README",
+      "path": "Templates/README.md"
+    },
+    {
+      "basename": "Fleeting Note",
+      "path": "Templates/Fleeting Note.md"
+    },
+    {
+      "basename": "Concept Note - Example",
+      "path": "Templates/examples/Concept Note - Example.md"
+    },
+    {
+      "basename": "Experiment Log - Example",
+      "path": "Templates/examples/Experiment Log - Example.md"
+    },
+    {
       "basename": "Supervised Learning MOC",
       "path": "Machine Learning/MOCs/Supervised Learning MOC.md"
     },
@@ -21,18 +49,6 @@
       "path": "Templates/examples/MOC - Example.md"
     },
     {
-      "basename": "Experiment Log - Example",
-      "path": "Templates/examples/Experiment Log - Example.md"
-    },
-    {
-      "basename": "Concept Note - Example",
-      "path": "Templates/examples/Concept Note - Example.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
-    },
-    {
       "basename": "Concept Note",
       "path": "Templates/Concept Note.md"
     },
@@ -47,22 +63,6 @@
     {
       "basename": "Research Log",
       "path": "Templates/Research Log.md"
-    },
-    {
-      "basename": "README",
-      "path": "Templates/README.md"
-    },
-    {
-      "basename": "Paper Note",
-      "path": "Templates/Paper Note.md"
-    },
-    {
-      "basename": "Model Card",
-      "path": "Templates/Model Card.md"
-    },
-    {
-      "basename": "Fleeting Note",
-      "path": "Templates/Fleeting Note.md"
     },
     {
       "basename": "Experiment Log",
