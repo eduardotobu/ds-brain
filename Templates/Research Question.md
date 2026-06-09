@@ -1,13 +1,15 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
+id:
+  "{ date:YYYYMMDDHHmm }":
 title: "{{title}}"
-created: {{date:YYYY-MM-DD}}
+created:
+  "{ date:YYYY-MM-DD }":
 tags:
   - question
   - ml
 type: research-question
 status: open
-area: 
+area:
 ---
 
 # {{title}}

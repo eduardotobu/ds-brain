@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
+      "basename": "Machine Learning MOC",
+      "path": "Machine Learning/MOCs/Machine Learning MOC.md"
+    },
+    {
+      "basename": "Concept Note - Example",
+      "path": "Templates/examples/Concept Note - Example.md"
+    },
+    {
+      "basename": "Model Card - Example",
+      "path": "Templates/examples/Model Card - Example.md"
+    },
+    {
+      "basename": "MOC - Example",
+      "path": "Templates/examples/MOC - Example.md"
+    },
+    {
+      "basename": "What is Machine Learning",
+      "path": "Machine Learning/Notes/What is Machine Learning.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Machine Learning/MOCs/Untitled.md"
     },
     {
       "basename": "Model Card",
@@ -17,12 +37,24 @@
       "path": "Templates/README.md"
     },
     {
+      "basename": "Research Log",
+      "path": "Templates/Research Log.md"
+    },
+    {
+      "basename": "Research Question",
+      "path": "Templates/Research Question.md"
+    },
+    {
+      "basename": "Fleeting Note - Example",
+      "path": "Templates/examples/Fleeting Note - Example.md"
+    },
+    {
       "basename": "Fleeting Note",
       "path": "Templates/Fleeting Note.md"
     },
     {
-      "basename": "Concept Note - Example",
-      "path": "Templates/examples/Concept Note - Example.md"
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
     },
     {
       "basename": "Experiment Log - Example",
@@ -37,40 +69,12 @@
       "path": "Templates/Concept Note.md"
     },
     {
-      "basename": "Machine Learning MOC",
-      "path": "Machine Learning/MOCs/Machine Learning MOC.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Machine Learning/MOCs/Untitled.md"
-    },
-    {
-      "basename": "MOC - Example",
-      "path": "Templates/examples/MOC - Example.md"
-    },
-    {
       "basename": "Concept Note",
       "path": "Templates/Concept Note.md"
     },
     {
-      "basename": "What is Machine Learning",
-      "path": "Machine Learning/Notes/What is Machine Learning.md"
-    },
-    {
-      "basename": "Research Question",
-      "path": "Templates/Research Question.md"
-    },
-    {
-      "basename": "Research Log",
-      "path": "Templates/Research Log.md"
-    },
-    {
       "basename": "Experiment Log",
       "path": "Templates/Experiment Log.md"
-    },
-    {
-      "basename": "Fleeting Note - Example",
-      "path": "Templates/examples/Fleeting Note - Example.md"
     }
   ],
   "omittedPaths": [],
