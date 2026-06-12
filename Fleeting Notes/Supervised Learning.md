@@ -1,9 +1,9 @@
 ---
 type: fleeting
-created: {{date:YYYY-MM-DD HH:mm}}
+created: 2026-06-11 23:47
 tags: [fleeting]
 ---
-# Quick capture — {{date:YYYY-MM-DD}}
+# Quick capture — 2026-06-11
 
 <!-- Don't edit. Just write. Full sentences are optional.
      Write enough that future-you knows what past-you meant. -->
