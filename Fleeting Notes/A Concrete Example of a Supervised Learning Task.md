@@ -18,6 +18,10 @@ The real task, though, is to recommend, correctly, movies out of those tens of t
 while the computer can easily understand the +-1 labels that i have annotated the movies with, it doesn't really understand anything about the movies, so i need to construct a feature vector, put the movies into a form that computers can understand.
 
 ![[file-20260612001940465.jpg]]
+A feature fecture can look like this
+
+$$\text{feature vector}=[0,0,1,0,0,1,0]^T$$
+
 So we will compute a feature vector for each movie systematically so that we can add that procedure, apply that procedure to each of the movies, in the training set (set of examples we've already seen). To compute a feature vector we can ask different questions, like the movie was comedy?, was action?, was directed by spielberg? and we will add a 1 to each 'yes' and a 0 to each 'no' in order to construct the feature vector.
 
 So at this point, we have a training set of examples-- vectors with the associated labels. These are in the form that a computer can now understand. I**ts task is to learn a mapping from those vectors to the labels. This is called a classifier as we will see later on.**
@@ -28,6 +32,8 @@ So i wish to learn the mapping from examples, x to labesl, plus minus one, on th
 
 Train set: movies that are labeled.
 Test set: movies that are not yet labeled.
+
+We are aiming to learn the mapping from examples $x$ to labels $[+1,-1]$.
 
 Next, we are diving into [[Introduction to Classifiers]]
 
