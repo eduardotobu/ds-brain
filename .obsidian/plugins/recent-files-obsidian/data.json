@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "The Perceptron Algorithm",
+      "path": "The Perceptron Algorithm.md"
+    },
+    {
+      "basename": "Linear separation",
+      "path": "Fleeting Notes/Linear separation.md"
+    },
+    {
       "basename": "Machine Learning and Prediction",
       "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Introduction to Classifiers",
       "path": "Fleeting Notes/Introduction to Classifiers.md"
-    },
-    {
-      "basename": "Linear separation",
-      "path": "Fleeting Notes/Linear separation.md"
     },
     {
       "basename": "Linear Classifiers Mathematically Revisited",
