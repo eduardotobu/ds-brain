@@ -73,8 +73,9 @@ So, linear classifiers are not the only way of matching lables to a testing set,
 some classifiers with error 0.
 
 There's an issue called **[[Generalization]]: How well the classifier that we train on the training set generalizes or applies correctly, similarly to the test examples, as well.**
+Much of machine learning theoretical part is in relating how a classifier that might do well on the training set would also do well on the test set.
 
-This is at the heart of machine-learning problems, tha ability to generalize from the training set to the test set.
+This is at the heart of machine-learning problems, the ability to generalize from the training set to the test set.
 
 **Hypothesis space:** the set of possible classifiers
 Each classifier represents a possible “hypothesis" about the data; thus, the set of possible classifiers can be seen as the space of possible hypothesis.

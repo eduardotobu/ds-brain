@@ -26,4 +26,6 @@ What we should have learned of these course:
 
 
 **Supplementary Notes of Unit 1:** 
-![[Supplementary_Notes_U1.pdf]]
+![[supplementary_notes_u1 1.pdf]]
+
+Next: [[Review of basic concepts seen so far]] 
