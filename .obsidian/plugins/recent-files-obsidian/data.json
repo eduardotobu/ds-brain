@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Machine Learning and Prediction",
+      "path": "Fleeting Notes/Machine Learning and Prediction.md"
+    },
+    {
       "basename": "Supervised Learning",
       "path": "Fleeting Notes/Supervised Learning.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Introduction to Classifiers",
       "path": "Fleeting Notes/Introduction to Classifiers.md"
-    },
-    {
-      "basename": "Machine Learning and Prediction",
-      "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
     {
       "basename": "Linear separation",
