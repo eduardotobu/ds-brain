@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Machine Learning and Prediction",
-      "path": "Fleeting Notes/Machine Learning and Prediction.md"
-    },
-    {
-      "basename": "Linear separation",
-      "path": "Linear separation.md"
-    },
-    {
-      "basename": "Linear Classifiers Mathematically Revisited",
-      "path": "Linear Classifiers Mathematically Revisited.md"
-    },
-    {
-      "basename": "Review of basic concepts seen so far",
-      "path": "Review of basic concepts seen so far.md"
+      "basename": "Supervised Learning",
+      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "Different Kinds of Supervised Learning Classification vs. Regression",
@@ -25,12 +13,24 @@
       "path": "Fleeting Notes/Introduction to Classifiers.md"
     },
     {
-      "basename": "A Concrete Example of a Supervised Learning Task",
-      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
+      "basename": "Machine Learning and Prediction",
+      "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
     {
-      "basename": "Supervised Learning",
-      "path": "Fleeting Notes/Supervised Learning.md"
+      "basename": "Linear separation",
+      "path": "Fleeting Notes/Linear separation.md"
+    },
+    {
+      "basename": "Linear Classifiers Mathematically Revisited",
+      "path": "Fleeting Notes/Linear Classifiers Mathematically Revisited.md"
+    },
+    {
+      "basename": "Review of basic concepts seen so far",
+      "path": "Fleeting Notes/Review of basic concepts seen so far.md"
+    },
+    {
+      "basename": "A Concrete Example of a Supervised Learning Task",
+      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
     },
     {
       "basename": "Concept Note - Example",
@@ -62,7 +62,7 @@
     },
     {
       "basename": "Fleeting Note",
-      "path": "Templates/Fleeting Note.md"
+      "path": "Fleeting Notes/Fleeting Note.md"
     },
     {
       "basename": "MOC",
