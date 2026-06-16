@@ -47,4 +47,5 @@ Here is exactly what the pseudocode in the image is doing line-by-line:
 **7: $\theta_0 = \theta_0 + y^{(i)}$**
 - **Offset Update:** Similarly, it updates the offset by adding the label $y^{(i)}$ to it. This shifts the line horizontally/vertically to accommodate the point it got wrong.
 **8: return $\theta$, $\theta_0$**
-- After the algorithm has looped through all $n$ data points $T$ times, it stops. It outputs the final $\theta$ and $\theta_0$. These final parameters define the best line the perceptron was able to find to separate your data.
+- After the algorithm has looped through all $n$ data points $T$ times, it stops. It outputs the final $\theta$ and $\theta_0$. These final parameters define the best line the perceptron was able to find to separate your data.![[Perceptron.pdf]]
+Next: [[Introduction to Hinge loss, Margin Boundaries and Regularization]]
