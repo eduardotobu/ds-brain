@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Margin Boundary",
+      "path": "Fleeting Notes/Margin Boundary.md"
+    },
+    {
+      "basename": "Knowledge Debt",
+      "path": "Knowlegde Debt/Knowledge Debt.md"
+    },
+    {
+      "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
+      "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
+    },
+    {
       "basename": "The Perceptron Algorithm",
-      "path": "The Perceptron Algorithm.md"
+      "path": "Fleeting Notes/The Perceptron Algorithm.md"
+    },
+    {
+      "basename": "Linear Classifiers Mathematically Revisited",
+      "path": "Fleeting Notes/Linear Classifiers Mathematically Revisited.md"
     },
     {
       "basename": "Linear separation",
       "path": "Fleeting Notes/Linear separation.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "Perceptron",
+      "path": "Fleeting Notes/assets/The Perceptron Algorithm/Perceptron.pdf"
     }
   ],
   "omittedPaths": [],

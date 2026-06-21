@@ -75,4 +75,14 @@ $$h(x; \theta, \theta_0) = \text{sign}(\theta \cdot x + \theta_0)$$ Again the ma
 
 So when we look for a linnear classifier, we try to find parameters $\theta$ and $\theta_0$ on the basis of the traning set, and we want to selec those class parameters in such a way that the classifier makes correct decisions.
 
+### More intuition on $\theta_0$ (the offset)
+$\theta_0$ acts as a translator, it pushes the hyperplane away from the origin along the axis of the normal vector.
+In precise geometric terms, the perpendicular distance from the origin to the decision boundary is exactly:
+
+$$d = \frac{-\theta_0}{||\theta||}$$
+
+- If $\theta_0$ is negative, the boundary is pushed _in the direction_ that $\theta$ is pointing.
+- If $\theta_0$ is positive, the boundary is pushed _away_ from the direction $\theta$ is pointing.
+- The magnitude of $\theta_0$ (relative to the length of the weight vector $||\theta||$) dictates exactly how far the boundary shifts.
+
 Next concept: [[Linear separation]]
