@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Margin Boundary",
-      "path": "Fleeting Notes/Margin Boundary.md"
+      "basename": "Hinge loss and objective function",
+      "path": "Fleeting Notes/Hinge loss and objective function.md"
+    },
+    {
+      "basename": "Machine Learning and Prediction",
+      "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
     {
       "basename": "Knowledge Debt",
       "path": "Knowlegde Debt/Knowledge Debt.md"
     },
     {
-      "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
-      "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
+      "basename": "Regularization",
+      "path": "Knowlegde Debt/Regularization.md"
+    },
+    {
+      "basename": "Margin Boundary",
+      "path": "Fleeting Notes/Margin Boundary.md"
+    },
+    {
+      "basename": "Supervised Learning",
+      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "The Perceptron Algorithm",
       "path": "Fleeting Notes/The Perceptron Algorithm.md"
+    },
+    {
+      "basename": "A Concrete Example of a Supervised Learning Task",
+      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
+    },
+    {
+      "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
+      "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
     },
     {
       "basename": "Linear Classifiers Mathematically Revisited",

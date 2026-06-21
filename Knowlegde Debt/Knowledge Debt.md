@@ -6,8 +6,11 @@ Linear Algebra:
 [[Cross Product]]
 [[Norm]]
 [[Unit Vector]]
+[[Scalar Projection]]
 [[Vector Projection]]
 [[Vectorial Space]]
 [[Eigenvalues]]
 [[Eigenvectors]]
 
+Machine Learning
+[[Regularization]]

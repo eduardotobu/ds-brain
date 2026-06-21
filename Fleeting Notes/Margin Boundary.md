@@ -28,14 +28,27 @@ As a result there is the norm of theta, a free new parameter that we have not ye
 ## Using the norm to push the margin boundaries apart
 We can use this norm to push the margin boundaries apart.
 ### Intuitively
-As we move away from the decision boundary, then the value of the linear function increases at a rate that's related to the magnitude of the parameter vector of $\theta$. So the larger the magnitude of $\theta$ is, the faster that linear function reaches the value of the decision boundary (-1 or 1). As a result in terms of the distance from the decision boundary, the closer the margin boundary is to the decision boundary, the larger the value of norm of $\theta$ is. So the norm of $\theta$ does control the distance that the margin boundaries are drawn next to the decision boundary, and it is a degree of freedom that is available for us to use. 
+As we move away from the decision boundary, then the value of the linear function increases at a rate that's related to the magnitude of the parameter vector of $\theta$. So the larger the magnitude of $\theta$ is, the faster that linear function reaches the value of the decision boundary (-1 or 1). As a result in terms of the distance from the decision boundary, the closer the margin boundary is to the decision boundary, the larger the value of norm of $\theta$ is (because the way to get to the margin boundary (-1 or 1) is faster, meaning a greater step (greater $\theta$). So the norm of $\theta$ does control the distance that the margin boundaries are drawn next to the decision boundary, and it is a degree of freedom that is available for us to use. 
 So now when we select the parameters $\theta$ and $\theta_0$, it defines the orientation of the decision boundary as well as where the margin boundaries are drawn.
 
-So now we have parameterized this large margin decision boundary. So we can now turn to defining what the result optimization problem would be.
+So now we have parameterized this large margin decision boundary. **So we can now turn to defining what the result optimization problem would be.**
 ![[file-20260620175100100.jpg]]
 
 ### Formally
 The norm of $\theta$ is the regularization term that allows us to control how far the margin boundaries are from the decision boundary.
 ![[file-20260620175042869.jpg]]
 
-So here we have a n
+Geometric margin ($\gamma_i$ ) is the measure of the actual perpendicular distance from a specific data point $x^{(i)}$ to the decision boundary.
+$$\gamma_i(\theta, \theta_0) = \frac{y^{(i)}(\theta \cdot x^{(i)} + \theta_0)}{\|\theta\|} = \frac{1}{\|\theta\|}$$
+So the core of this equation is entirely based on the concept of scalar projection. Which means that we are finding exactly how far the data point $x^{(i)}$ is perpendicularly to the boundary. Since the two factors of the numerator are always both the same (-1 or 1), the numerator becomes 1.
+
+So this is called a signed distance, it is signed because it measures the distance of a point from the decision boundary but also the side on which it lies.
+
+So if it lies on the correct side of the decision boundary, the distance is positive, but if we have a misclassified label, the distance would actually be $\frac{-1}{\|\theta\|}$.
+
+## Personal Intuition
+So now we have defined how, given a decision boundary, we can calculate the margin boundaries using the norm of $\theta$ as a new degree of freedom for us to use, using it to calculate the geometric margin from the decision boundary in the direction of $\theta$.
+Now It's time to define how to optimize the decision boundary location.
+
+
+**Coming Next:** [[Hinge loss and objective function]]
