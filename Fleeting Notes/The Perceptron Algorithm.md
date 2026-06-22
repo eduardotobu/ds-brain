@@ -49,9 +49,14 @@ Here is exactly what the pseudocode in the image is doing line-by-line:
 **8: return $\theta$, $\theta_0$**
 - After the algorithm has looped through all $n$ data points $T$ times, it stops. It outputs the final $\theta$ and $\theta_0$. These final parameters define the best line the perceptron was able to find to separate your data.
 
+
 ## Other References
 **Notes on Perceptrons**:
 ![[Perceptron.pdf]]
+
+****
+**There's a bound to $k$ number of updates made by the perceptron algorithm** 
+https://arxiv.org/pdf/1305.0208
 
 **Geometry Intuition on Perceptrons (doesn't explain offset):**
 https://www.youtube.com/watch?v=Fj7BgxI73TA

@@ -1,88 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Supervised Learning",
-      "path": "Fleeting Notes/Supervised Learning.md"
-    },
-    {
       "basename": "The Perceptron Algorithm",
       "path": "Fleeting Notes/The Perceptron Algorithm.md"
+    },
+    {
+      "basename": "Optimization Algorithms",
+      "path": "Fleeting Notes/Optimization Algorithms.md"
     },
     {
       "basename": "Untitled",
       "path": "Fleeting Notes/Untitled.md"
     },
     {
-      "basename": "Linear separation",
-      "path": "Fleeting Notes/Linear separation.md"
+      "basename": "The Realizable Case - Quadratic Program",
+      "path": "Fleeting Notes/The Realizable Case - Quadratic Program.md"
+    },
+    {
+      "basename": "Stochastic Gradient Descent",
+      "path": "Fleeting Notes/Stochastic Gradient Descent.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Fleeting Notes/Gradient Descent.md"
+    },
+    {
+      "basename": "Regularization and Generalization",
+      "path": "Fleeting Notes/Regularization and Generalization.md"
+    },
+    {
+      "basename": "The lambda Parameter (Regularization Parameter)",
+      "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
+    },
+    {
+      "basename": "Hinge loss and objective function",
+      "path": "Fleeting Notes/Hinge loss and objective function.md"
+    },
+    {
+      "basename": "Knowledge Debt",
+      "path": "Knowlegde Debt/Knowledge Debt.md"
     },
     {
       "basename": "Machine Learning and Prediction",
       "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
     {
-      "basename": "Different Kinds of Supervised Learning Classification vs. Regression",
-      "path": "Fleeting Notes/Different Kinds of Supervised Learning Classification vs. Regression.md"
+      "basename": "Regularization",
+      "path": "Knowlegde Debt/Regularization.md"
     },
     {
-      "basename": "Introduction to Classifiers",
-      "path": "Fleeting Notes/Introduction to Classifiers.md"
+      "basename": "Margin Boundary",
+      "path": "Fleeting Notes/Margin Boundary.md"
     },
     {
-      "basename": "Linear Classifiers Mathematically Revisited",
-      "path": "Fleeting Notes/Linear Classifiers Mathematically Revisited.md"
-    },
-    {
-      "basename": "Review of basic concepts seen so far",
-      "path": "Fleeting Notes/Review of basic concepts seen so far.md"
+      "basename": "Supervised Learning",
+      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "A Concrete Example of a Supervised Learning Task",
       "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
     },
     {
-      "basename": "Concept Note - Example",
-      "path": "Templates/examples/Concept Note - Example.md"
+      "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
+      "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
     },
     {
-      "basename": "Model Card",
-      "path": "Templates/Model Card.md"
+      "basename": "Linear Classifiers Mathematically Revisited",
+      "path": "Fleeting Notes/Linear Classifiers Mathematically Revisited.md"
     },
     {
-      "basename": "Paper Note",
-      "path": "Templates/Paper Note.md"
+      "basename": "Linear separation",
+      "path": "Fleeting Notes/Linear separation.md"
     },
     {
-      "basename": "README",
-      "path": "Templates/README.md"
-    },
-    {
-      "basename": "Research Log",
-      "path": "Templates/Research Log.md"
-    },
-    {
-      "basename": "Research Question",
-      "path": "Templates/Research Question.md"
-    },
-    {
-      "basename": "Fleeting Note - Example",
-      "path": "Templates/examples/Fleeting Note - Example.md"
-    },
-    {
-      "basename": "Fleeting Note",
-      "path": "Fleeting Notes/Fleeting Note.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
-    },
-    {
-      "basename": "Experiment Log - Example",
-      "path": "Templates/examples/Experiment Log - Example.md"
-    },
-    {
-      "basename": "Experiment Log",
-      "path": "Templates/Experiment Log.md"
+      "basename": "Perceptron",
+      "path": "Fleeting Notes/assets/The Perceptron Algorithm/Perceptron.pdf"
     }
   ],
   "omittedPaths": [],
