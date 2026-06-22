@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Stochastic Gradient Descent",
+      "path": "Fleeting Notes/Stochastic Gradient Descent.md"
+    },
+    {
+      "basename": "Optimization Algorithms",
+      "path": "Fleeting Notes/Optimization Algorithms.md"
+    },
+    {
+      "basename": "Gradient Descent",
+      "path": "Fleeting Notes/Gradient Descent.md"
+    },
+    {
+      "basename": "Regularization and Generalization",
+      "path": "Fleeting Notes/Regularization and Generalization.md"
+    },
+    {
+      "basename": "The lambda Parameter (Regularization Parameter)",
+      "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
+    },
+    {
       "basename": "Hinge loss and objective function",
       "path": "Fleeting Notes/Hinge loss and objective function.md"
     },
     {
-      "basename": "Machine Learning and Prediction",
-      "path": "Fleeting Notes/Machine Learning and Prediction.md"
-    },
-    {
       "basename": "Knowledge Debt",
       "path": "Knowlegde Debt/Knowledge Debt.md"
+    },
+    {
+      "basename": "Machine Learning and Prediction",
+      "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
     {
       "basename": "Regularization",

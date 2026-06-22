@@ -70,4 +70,4 @@ So, to this end we learned to define margin boundaries, how this relate to hinge
 All of this together define, then, the objective function that guides how $\theta$ and $\theta_0$ are resolved as the minimizing values.
 
 
-**Coming Next**: [[Review and The lambda Parameter]]
+**Coming Next**: [[The lambda Parameter (Regularization Parameter)]]
