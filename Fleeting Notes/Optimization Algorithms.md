@@ -2,4 +2,11 @@ So we have seen how to qualitatively understand the type of solutions that we ge
 
 [[Gradient Descent]]
 [[Stochastic Gradient Descent]]
-[[Quadratic Program]]
+[[The Realizable Case - Quadratic Program]]
+
+## Summary Of last 3 lectures:
+![[file-20260621191224264.jpg]]
+
+
+## References 
+![[intrinsic_plausibility.pdf]]
