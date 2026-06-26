@@ -10,3 +10,5 @@ So we have seen how to qualitatively understand the type of solutions that we ge
 
 ## References 
 ![[intrinsic_plausibility.pdf]]
+
+Coming Next: [[]]
