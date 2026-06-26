@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Regularization",
+      "path": "Knowlegde Debt/Regularization.md"
+    },
+    {
+      "basename": "Knowledge Debt",
+      "path": "Knowlegde Debt/Knowledge Debt.md"
+    },
+    {
+      "basename": "Machine Learning and Prediction",
+      "path": "Fleeting Notes/Machine Learning and Prediction.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "Fleeting Notes/Linear Regression.md"
+    },
+    {
+      "basename": "Regression",
+      "path": "Fleeting Notes/Regression.md"
+    },
+    {
       "basename": "Optimization Algorithms",
       "path": "Fleeting Notes/Optimization Algorithms.md"
+    },
+    {
+      "basename": "Stochastic Gradient Descent",
+      "path": "Fleeting Notes/Stochastic Gradient Descent.md"
+    },
+    {
+      "basename": "Supervised Learning",
+      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "The Realizable Case - Quadratic Program",
@@ -15,10 +43,6 @@
     {
       "basename": "Untitled",
       "path": "Fleeting Notes/Untitled.md"
-    },
-    {
-      "basename": "Stochastic Gradient Descent",
-      "path": "Fleeting Notes/Stochastic Gradient Descent.md"
     },
     {
       "basename": "Gradient Descent",
@@ -37,24 +61,8 @@
       "path": "Fleeting Notes/Hinge loss and objective function.md"
     },
     {
-      "basename": "Knowledge Debt",
-      "path": "Knowlegde Debt/Knowledge Debt.md"
-    },
-    {
-      "basename": "Machine Learning and Prediction",
-      "path": "Fleeting Notes/Machine Learning and Prediction.md"
-    },
-    {
-      "basename": "Regularization",
-      "path": "Knowlegde Debt/Regularization.md"
-    },
-    {
       "basename": "Margin Boundary",
       "path": "Fleeting Notes/Margin Boundary.md"
-    },
-    {
-      "basename": "Supervised Learning",
-      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "A Concrete Example of a Supervised Learning Task",
