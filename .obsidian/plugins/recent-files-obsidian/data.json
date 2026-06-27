@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
       "basename": "Linear Regression Closed Form Solution",
       "path": "Fleeting Notes/Linear Regression Closed Form Solution.md"
     },
     {
-      "basename": "Gradient Based Approach",
-      "path": "Fleeting Notes/Gradient Based Approach.md"
+      "basename": "Regularization",
+      "path": "Knowlegde Debt/Regularization.md"
     },
     {
       "basename": "Empirical Risk",
@@ -17,6 +21,14 @@
       "path": "Fleeting Notes/Linear Regression.md"
     },
     {
+      "basename": "Machine Learning and Prediction",
+      "path": "Fleeting Notes/Machine Learning and Prediction.md"
+    },
+    {
+      "basename": "Gradient Based Approach",
+      "path": "Fleeting Notes/Gradient Based Approach.md"
+    },
+    {
       "basename": "Regression",
       "path": "Fleeting Notes/Regression.md"
     },
@@ -25,16 +37,8 @@
       "path": "Fleeting Notes/Optimization Algorithms.md"
     },
     {
-      "basename": "Regularization",
-      "path": "Knowlegde Debt/Regularization.md"
-    },
-    {
       "basename": "Knowledge Debt",
       "path": "Knowlegde Debt/Knowledge Debt.md"
-    },
-    {
-      "basename": "Machine Learning and Prediction",
-      "path": "Fleeting Notes/Machine Learning and Prediction.md"
     },
     {
       "basename": "Stochastic Gradient Descent",
