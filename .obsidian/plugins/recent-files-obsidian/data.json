@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Optimization Algorithms",
-      "path": "Fleeting Notes/Optimization Algorithms.md"
+      "basename": "Gradient Based Approach",
+      "path": "Fleeting Notes/Gradient Based Approach.md"
+    },
+    {
+      "basename": "Empirical Risk",
+      "path": "Fleeting Notes/Empirical Risk.md"
     },
     {
       "basename": "Linear Regression",
       "path": "Fleeting Notes/Linear Regression.md"
+    },
+    {
+      "basename": "Regression",
+      "path": "Fleeting Notes/Regression.md"
+    },
+    {
+      "basename": "Optimization Algorithms",
+      "path": "Fleeting Notes/Optimization Algorithms.md"
     },
     {
       "basename": "Regularization",
@@ -19,10 +31,6 @@
     {
       "basename": "Machine Learning and Prediction",
       "path": "Fleeting Notes/Machine Learning and Prediction.md"
-    },
-    {
-      "basename": "Regression",
-      "path": "Fleeting Notes/Regression.md"
     },
     {
       "basename": "Stochastic Gradient Descent",
