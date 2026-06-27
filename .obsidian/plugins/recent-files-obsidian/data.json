@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
       "basename": "Linear Regression Closed Form Solution",
       "path": "Fleeting Notes/Linear Regression Closed Form Solution.md"
+    },
+    {
+      "basename": "Knowledge Debt",
+      "path": "Knowlegde Debt/Knowledge Debt.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
     },
     {
       "basename": "Regularization",
@@ -37,10 +41,6 @@
       "path": "Fleeting Notes/Optimization Algorithms.md"
     },
     {
-      "basename": "Knowledge Debt",
-      "path": "Knowlegde Debt/Knowledge Debt.md"
-    },
-    {
       "basename": "Stochastic Gradient Descent",
       "path": "Fleeting Notes/Stochastic Gradient Descent.md"
     },
@@ -55,10 +55,6 @@
     {
       "basename": "The Perceptron Algorithm",
       "path": "Fleeting Notes/The Perceptron Algorithm.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Fleeting Notes/Untitled.md"
     },
     {
       "basename": "Gradient Descent",
