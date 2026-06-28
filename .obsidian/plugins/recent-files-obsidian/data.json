@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "A Concrete Example of a Supervised Learning Task",
+      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
+    },
+    {
+      "basename": "Supervised Learning",
+      "path": "Fleeting Notes/Supervised Learning.md"
+    },
+    {
+      "basename": "Machine Learning",
+      "path": "Fleeting Notes/Machine Learning.md"
+    },
+    {
       "basename": "Linear Regression Closed Form Solution",
       "path": "Fleeting Notes/Linear Regression Closed Form Solution.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "Fleeting Notes/Linear Regression.md"
+    },
+    {
+      "basename": "Optimization Algorithms",
+      "path": "Fleeting Notes/Optimization Algorithms.md"
+    },
+    {
+      "basename": "Regularization and Generalization",
+      "path": "Fleeting Notes/Regularization and Generalization.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "The lambda Parameter (Regularization Parameter)",
+      "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
+    },
+    {
+      "basename": "Algorithm (Permanent Note)",
+      "path": "Templates/Algorithm (Permanent Note).md"
+    },
+    {
+      "basename": "Algorithm - Example",
+      "path": "Templates/Algorithm - Example.md"
+    },
+    {
+      "basename": "Concept - Example",
+      "path": "Templates/Concept - Example.md"
+    },
+    {
+      "basename": "Concept (Permanent Note)",
+      "path": "Templates/Concept (Permanent Note).md"
+    },
+    {
+      "basename": "MOC - Example",
+      "path": "Templates/MOC - Example.md"
     },
     {
       "basename": "Knowledge Debt",
@@ -21,14 +73,6 @@
       "path": "Fleeting Notes/Empirical Risk.md"
     },
     {
-      "basename": "Linear Regression",
-      "path": "Fleeting Notes/Linear Regression.md"
-    },
-    {
-      "basename": "Machine Learning and Prediction",
-      "path": "Fleeting Notes/Machine Learning and Prediction.md"
-    },
-    {
       "basename": "Gradient Based Approach",
       "path": "Fleeting Notes/Gradient Based Approach.md"
     },
@@ -37,16 +81,8 @@
       "path": "Fleeting Notes/Regression.md"
     },
     {
-      "basename": "Optimization Algorithms",
-      "path": "Fleeting Notes/Optimization Algorithms.md"
-    },
-    {
       "basename": "Stochastic Gradient Descent",
       "path": "Fleeting Notes/Stochastic Gradient Descent.md"
-    },
-    {
-      "basename": "Supervised Learning",
-      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "The Realizable Case - Quadratic Program",
@@ -61,24 +97,12 @@
       "path": "Fleeting Notes/Gradient Descent.md"
     },
     {
-      "basename": "Regularization and Generalization",
-      "path": "Fleeting Notes/Regularization and Generalization.md"
-    },
-    {
-      "basename": "The lambda Parameter (Regularization Parameter)",
-      "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
-    },
-    {
       "basename": "Hinge loss and objective function",
       "path": "Fleeting Notes/Hinge loss and objective function.md"
     },
     {
       "basename": "Margin Boundary",
       "path": "Fleeting Notes/Margin Boundary.md"
-    },
-    {
-      "basename": "A Concrete Example of a Supervised Learning Task",
-      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
     },
     {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",

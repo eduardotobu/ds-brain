@@ -5,7 +5,7 @@ For many algorithms in machine learning, you can't do closed form solution.
 
 It happened to be because our loss function (empirical risk) actually happens to be a convex function, that's why we can solve it on closed-form.
 
-$$\mathbb{R}(\theta)=\frac{1}{n}*\sum$$
+$$\mathbb{R}(\theta)=\frac{1}{n}*\sum{1}{2}$$
 ### Closed Form vs. Gradient-based solutions
 
 |**Feature**|**Closed-Form (Normal Equation)**|**Gradient-Based (Gradient Descent)**|
