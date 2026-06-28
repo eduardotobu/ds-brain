@@ -15,7 +15,7 @@ Machine learning as a discipline aims to design, understand and apply computer p
 - Control - Control towards a desired output configuration.
 
 ## Core Concepts
-### [[Supervised Learning]]
+- [[Supervised Learning]]
 
 ## Algorithms & techniques
 - [[]]

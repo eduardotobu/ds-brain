@@ -1,10 +1,21 @@
 ---
 id: 20260627-1001
 type: permanent
+subtype: concept
 created: 2026-06-27
 modified: 2026-06-27
-aliases: [L1, L2, Ridge, Lasso, Elastic Net, weight decay]
-tags: [ml, optimization, generalization, regularization]
+aliases:
+  - L1
+  - L2
+  - Ridge
+  - Lasso
+  - Elastic Net
+  - weight decay
+tags:
+  - ml
+  - optimization
+  - generalization
+  - regularization
 ---
 # Regularization reduces model complexity by adding a penalty to the loss function, trading variance for bias to improve generalization
 

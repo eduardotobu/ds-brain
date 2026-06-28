@@ -1,13 +1,14 @@
 ---
-id: <% tp.date.now("YYYYMMDDHHmm") %>
+id: "{{date:YYYYMMDDHHmm}}"
 type: permanent
-created: <% tp.date.now("YYYY-MM-DD") %>
-modified: <% tp.date.now("YYYY-MM-DD") %>
+subtype: concept
+created: "{{date:YYYY-MM-DD}}"
 aliases: []
-tags: [ml]
+tags:
+  - ml
 ---
 
-# ⚡ <% tp.file.title %>
+# {{title}}
 
 [Explain the idea fully in 2–4 sentences, as if writing for your future self
 with no context. This note must be self-contained.]

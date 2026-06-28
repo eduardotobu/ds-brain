@@ -1,15 +1,16 @@
 ---
-id: <% tp.date.now("YYYYMMDDHHmm") %>
+id: "{{date:YYYYMMDDHHmm}}"
 type: permanent
 subtype: algorithm
-created: <% tp.date.now("YYYY-MM-DD") %>
-modified: <% tp.date.now("YYYY-MM-DD") %>
+created: "{{date:YYYY-MM-DD}}"
 aliases: []
-tags: [ml, algorithm]
-family:    # e.g. tree-based, linear, clustering, neural, bayesian
+tags:
+  - ml
+  - algorithm
+family:
 ---
 
-# <% tp.file.title %>
+# {{title}}
 
 ## TL;DR
 [One sentence: what it does and when to reach for it.]
