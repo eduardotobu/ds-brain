@@ -3,10 +3,11 @@ id: "202606291403"
 type: permanent
 subtype: concept
 created: 2026-06-29
-aliases: []
+aliases:
+  - tensors
 tags:
   - linear-algebra
-Up:
+Up: "[[Linear Algebra for Machine Learning]]"
 ---
 # Tensors are multi-dimensional arrays that generalize vectors and matrices
 

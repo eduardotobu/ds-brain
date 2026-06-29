@@ -3,7 +3,8 @@ id: "202606291244"
 type: permanent
 subtype: concept
 created: 2026-06-29
-aliases: []
+aliases:
+  - matrices
 tags:
   - linear-algebra
 Up: "[[Linear Algebra for Machine Learning]]"
