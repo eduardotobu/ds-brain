@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
+    },
+    {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
       "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Matrices are collections of vectors representing tabular data or weights",
       "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
-    },
-    {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
     },
     {
       "basename": "Algorithm (Permanent Note)",
