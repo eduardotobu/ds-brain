@@ -1,7 +1,7 @@
 ---
-id: "{{date:YYYYMMDDHHmm}}"
+id: "{{date:YYYYMMDDHHmmss}}"
 type: moc
-created: "{{date:YYYY-MM-DD}}"
+created: "{{date:YYYY-MM-DD HH:mm:ss}}"
 tags:
   - moc
 ---

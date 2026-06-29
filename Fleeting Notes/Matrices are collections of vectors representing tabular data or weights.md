@@ -10,7 +10,7 @@ Up: "[[Linear Algebra for Machine Learning]]"
 ---
 # Matrices are collections of vectors representing tabular data or weights
 
-If a vector is a single row or column of numbers, a **matrix is a two-dimensional grid of numbers**. You can think of a matrix as multiple vectors stacked together. Because it has two axes (rows and columns), a matrix is classified as a 2nd-order [[Tensors represent data across varying dimensions|Tensor]].
+If a vector is a single row or column of numbers, a **matrix is a two-dimensional grid of numbers**. You can think of a matrix as multiple [[Vectors are the foundational data structure of Machine Learning|vectors]] stacked together. Because it has two axes (rows and columns), a matrix is classified as a 2nd-order [[Tensors are multi-dimensional arrays that generalize vectors and matrices|tensor]].
 
 In machine learning, matrices are the primary structure used to store entire datasets and the complex network of weights inside algorithms.
 

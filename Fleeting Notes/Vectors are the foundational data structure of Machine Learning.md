@@ -8,7 +8,7 @@ tags:
   - linear-algebra
 Up: "[[Linear Algebra for Machine Learning]]"
 ---
-# Vectors are the fundational data structure of Machine Learning
+# Vectors are the foundational data structure of Machine Learning
 
 In physics, a vector represents magnitude and direction, but in computer science and machine learning, a **vector is simply an ordered, one-dimensional list of numbers (scalars)**.
 
@@ -46,7 +46,7 @@ Depending on where the vector is used in a model, it takes on different semantic
 - When representing the semantic meaning of text or complex data, it is called an [[Embedding]].
 
 **Related notes to create/link:**
-- Vectors are a 1st-order tensor: [[Tensors represent data across varying dimensions]]
+- Vectors are a 1st-order tensor: [[Tensors are multi-dimensional arrays that generalize vectors and matrices]]
 - Combining vectors creates a matrix: [[Matrices are collections of vectors]]
 - How vectors are compared for similarity: [[Dot Product calculates vector similarity]]
 - Array operations in Python: [[NumPy Vectorization speeds up computation]]

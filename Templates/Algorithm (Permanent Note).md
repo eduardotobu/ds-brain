@@ -1,8 +1,8 @@
 ---
-id: "{{date:YYYYMMDDHHmm}}"
+id: "{{date:YYYYMMDDHHmmss}}"
 type: permanent
 subtype: algorithm
-created: "{{date:YYYY-MM-DD}}"
+created: "{{date:YYYY-MM-DD HH:mm:ss}}"
 aliases: []
 tags:
   - ml
