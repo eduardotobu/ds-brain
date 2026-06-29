@@ -110,5 +110,3 @@ tags:
 - **1050_QR_Decomposition**
 - **1060_Matrix_Condition_Numbers_and_Numerical_Stability**
 - **1070_Iterative_Solvers_Conjugate_Gradient_Method**
-
-### How to use this in Obsidian:
