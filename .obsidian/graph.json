@@ -5,26 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"type\":moc]",
       "color": {
         "a": 1,
-        "rgb": 15204142
+        "rgb": 14872601
+      }
+    },
+    {
+      "query": "[\"type\":permanent][\"subtype\":concept]",
+      "color": {
+        "a": 1,
+        "rgb": 1685548
+      }
+    },
+    {
+      "query": "[\"type\":permanent][\"subtype\":algorithm]",
+      "color": {
+        "a": 1,
+        "rgb": 15737912
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.04427083333333,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3700745818445939,
+  "scale": 0.7514342322277565,
   "close": false
 }

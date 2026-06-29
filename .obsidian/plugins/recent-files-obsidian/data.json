@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Vectors are the fundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the fundational data structure of Machine Learning.md"
+    },
+    {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
+    },
+    {
+      "basename": "Algorithm - Example",
+      "path": "Templates/Algorithm - Example.md"
+    },
+    {
       "basename": "Concept - Example",
       "path": "Templates/Concept - Example.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "Algorithm (Permanent Note)",
+      "path": "Templates/Algorithm (Permanent Note).md"
     },
     {
       "basename": "Concept (Permanent Note)",
@@ -11,18 +31,6 @@
     {
       "basename": "MOC - Example",
       "path": "Templates/MOC - Example.md"
-    },
-    {
-      "basename": "Algorithm (Permanent Note)",
-      "path": "Templates/Algorithm (Permanent Note).md"
-    },
-    {
-      "basename": "Algorithm - Example",
-      "path": "Templates/Algorithm - Example.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
     },
     {
       "basename": "Machine Learning",
