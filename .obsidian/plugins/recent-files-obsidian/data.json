@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Vectors are the fundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the fundational data structure of Machine Learning.md"
-    },
-    {
       "basename": "Linear Algebra for Machine Learning",
       "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
+    },
+    {
+      "basename": "Matrices are collections of vectors representing tabular data or weights",
+      "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
+    },
+    {
+      "basename": "Vectors are the fundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the fundational data structure of Machine Learning.md"
     },
     {
       "basename": "Algorithm - Example",

@@ -8,7 +8,6 @@ tags:
   - linear-algebra
 Up: "[[Linear Algebra for Machine Learning]]"
 ---
-
 # Vectors are the fundational data structure of Machine Learning
 
 In physics, a vector represents magnitude and direction, but in computer science and machine learning, a **vector is simply an ordered, one-dimensional list of numbers (scalars)**.
