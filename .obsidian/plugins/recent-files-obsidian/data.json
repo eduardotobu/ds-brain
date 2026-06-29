@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Concept - Example",
+      "path": "Templates/Concept - Example.md"
+    },
+    {
       "basename": "Concept (Permanent Note)",
       "path": "Templates/Concept (Permanent Note).md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Algorithm (Permanent Note)",
       "path": "Templates/Algorithm (Permanent Note).md"
-    },
-    {
-      "basename": "Concept - Example",
-      "path": "Templates/Concept - Example.md"
     },
     {
       "basename": "Algorithm - Example",
