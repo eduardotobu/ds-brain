@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
+    },
+    {
       "basename": "Machine Learning",
       "path": "Fleeting Notes/Machine Learning.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Vectors are the foundational data structure of Machine Learning",
       "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
-    },
-    {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
     },
     {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
