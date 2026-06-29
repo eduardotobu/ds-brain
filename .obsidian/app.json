@@ -3,5 +3,6 @@
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Fleeting Notes"
+  "newFileFolderPath": "Fleeting Notes",
+  "spellcheck": false
 }
