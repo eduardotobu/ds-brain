@@ -14,7 +14,7 @@ tags:
 ### 1. Matrix Mechanics & Systems of Equations
 
 - 1. [[Systems of equations overview]]
-- **101_Geometric_Interpretation_of_Linear_Systems**
+- 2. [[Geometric Interpretation of Linear Systems]]
 - **102_Matrix_Form_of_Linear_Equations**
 - **103_Gaussian_Elimination_and_Row_Reduction**
 - **104_Row_Echelon_Form_and_Reduced_Row_Echelon_Form**

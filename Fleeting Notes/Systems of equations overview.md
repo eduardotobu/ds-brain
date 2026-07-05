@@ -34,6 +34,7 @@ To truly understand a system of equations, we look at it through two distinct ge
 1. **The Row Picture:** Each equation represents a line (in 2D space), a plane (in 3D space), or a hyperplane (in higher dimensions). Solving the system means finding the exact point where all these hyperplanes **intersect**.
 2. **The Column Picture:** This perspective asks: _Can we combine the column vectors of matrix $\mathbf{A}$ in a certain way to reach vector $\mathbf{b}$?_ Solving the system means finding the weights ($\mathbf{x}$) for this linear combination.
 
+We can get more detail in [[Geometric Interpretation of Linear Systems]]
 ### Python Representation
 
 In machine learning and data science, we rarely solve these systems by hand using row reduction (Gaussian elimination). Instead, we offload the computation to optimized numerical libraries like NumPy.

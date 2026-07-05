@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Systems of equations overview",
-      "path": "Fleeting Notes/Systems of equations overview.md"
-    },
-    {
       "basename": "Linear Algebra for Machine Learning",
       "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
+    },
+    {
+      "basename": "Geometric Interpretation of Linear Systems",
+      "path": "Fleeting Notes/Geometric Interpretation of Linear Systems.md"
+    },
+    {
+      "basename": "Matrices are collections of vectors representing tabular data or weights",
+      "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
+    },
+    {
+      "basename": "Systems of equations overview",
+      "path": "Fleeting Notes/Systems of equations overview.md"
     },
     {
       "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
@@ -27,10 +35,6 @@
     {
       "basename": "Machine Learning",
       "path": "Fleeting Notes/Machine Learning.md"
-    },
-    {
-      "basename": "Matrices are collections of vectors representing tabular data or weights",
-      "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
     },
     {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
