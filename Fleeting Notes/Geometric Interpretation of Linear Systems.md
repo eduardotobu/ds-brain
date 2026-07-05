@@ -6,12 +6,10 @@ created: 2026-07-05 00:31:28
 aliases: []
 tags:
   - linear-algebra
-Up: "[[Linear Algebra for Machine Learning]]"
+Up: "[[Systems of equations]]"
 ---
 
-# Geometric Interpretation of Linear Systems
-
-A system of linear equations (commonly written as $\mathbf{Ax} = \mathbf{b}$) is not just an algebraic puzzle; it has a profound geometric meaning. Understanding this geometry is essential for grasping how optimization algorithms find solutions and how data space transformations operate in machine learning.
+# Geometric interpretation of linear systems
 
 We can view a linear system through two distinct geometric lenses: the **Row Picture** and the **Column Picture**.
 
@@ -39,34 +37,7 @@ $$x_1 \begin{bmatrix} a_{1,1} \\ a_{2,1} \end{bmatrix} + x_2 \begin{bmatrix} a_{
 
 This view is highly favored in machine learning because it introduces the concept of **vector spaces and spans**, which dictate whether a model has the mathematical capacity to represent or fit a given dataset.
 
-### Python Representation
-
-In code, solving for the vector $\mathbf{x}$ maps to finding the intersection point or the required vector coefficients using NumPy's linear algebra submodule (`np.linalg`).
-
-``` python 
-import numpy as np
-
-# Representing the system: 
-#  2x +  y = 5
-# -1x + 3y = 8
-A = np.array([[2, 1], 
-              [-1, 3]])
-b = np.array([5, 8])
-
-# Solving for x (finds the coordinate point / scalar coefficients)
-x = np.linalg.solve(A, b)
-
-print(f"Solution vector x: {x}")
-# Returns the exact weights needed to combine columns of A to reach b
-```
-
 ### Semantic Meanings in ML
 
 - **Decision Boundaries:** Linear classification algorithms like Support Vector Machines (SVMs) or Logistic Regression explicitly calculate a hyperplane (the Row Picture) to geometrically separate different classes of data points in high-dimensional space.
 - **Dimensionality Reduction:** Techniques like Principal Component Analysis (PCA) rely heavily on the Column Picture to find the optimal lower-dimensional subspace (span) to project high-dimensional feature vectors onto without losing critical variance.
-
-**Related notes to create/link:**
-
-- Stacking vectors into matrices: [[Matrices are collections of vectors]]
-- Understanding vector reach: [[The span of vectors defines the reach of a vector space]]
-- Overdetermined systems in ML: [[Linear Least Squares solves unsolvable linear systems]]

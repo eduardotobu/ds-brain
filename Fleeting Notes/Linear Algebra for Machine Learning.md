@@ -7,15 +7,14 @@ tags:
   - machine-learning
 ---
 # Linear Algebra for Machine Learning — Map of Content
-
 [[Vectors are the foundational data structure of Machine Learning]]
 [[Matrices are collections of vectors representing tabular data or weights]]
 [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
 ### 1. Matrix Mechanics & Systems of Equations
 
-- 1. [[Systems of equations overview]]
-- 2. [[Geometric Interpretation of Linear Systems]]
-- **102_Matrix_Form_of_Linear_Equations**
+- 1. [[Systems of equations]]
+- 1.1 [[Geometric interpretation of linear systems]]
+- 1.2 [[Matrix form of linear equations]]
 - **103_Gaussian_Elimination_and_Row_Reduction**
 - **104_Row_Echelon_Form_and_Reduced_Row_Echelon_Form**
 - **110_Matrix_Arithmetic_Operations**

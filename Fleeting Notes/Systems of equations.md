@@ -9,11 +9,11 @@ tags:
 Up: "[[Linear Algebra for Machine Learning]]"
 ---
 
-# Systems of equations overview
+# Systems of equations
 
 At its historical and practical core, linear algebra was developed to systematically solve **systems of linear equations**—sets of multiple equations with multiple unknown variables that must be satisfied simultaneously.
 
-In a first lecture context, a system of equations is not just an algebraic puzzle to solve by substituting variables; it is an invitation to shift our thinking from isolated numbers to vector spaces and geometric transformations.
+A system of equations is not just an algebraic puzzle to solve by substituting variables; it is an invitation to shift our thinking from isolated numbers to vector spaces and geometric transformations.
 
 ### Mathematical Representation
 
@@ -30,11 +30,8 @@ Where $\mathbf{A}$ is the $m \times n$ matrix of coefficients, $\mathbf{x}$ is t
 ### The Two Geometric Views
 
 To truly understand a system of equations, we look at it through two distinct geometric perspectives:
+[[Geometric interpretation of linear systems]]
 
-1. **The Row Picture:** Each equation represents a line (in 2D space), a plane (in 3D space), or a hyperplane (in higher dimensions). Solving the system means finding the exact point where all these hyperplanes **intersect**.
-2. **The Column Picture:** This perspective asks: _Can we combine the column vectors of matrix $\mathbf{A}$ in a certain way to reach vector $\mathbf{b}$?_ Solving the system means finding the weights ($\mathbf{x}$) for this linear combination.
-
-We can get more detail in [[Geometric Interpretation of Linear Systems]]
 ### Python Representation
 
 In machine learning and data science, we rarely solve these systems by hand using row reduction (Gaussian elimination). Instead, we offload the computation to optimized numerical libraries like NumPy.
@@ -72,7 +69,6 @@ Every time a model learns, it is essentially trying to solve or approximate a ma
 
 **Related notes to create/link:**
 
-- The building blocks: [[Matrices are collections of vectors representing tabular data or weights]]
 - Combining vectors geometrically: [[Linear Combinations span vector spaces]]
 - When a system cannot be perfectly solved: [[The Normal Equation solves overdetermined systems in Linear Regression]]
 
