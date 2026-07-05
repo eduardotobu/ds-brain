@@ -28,6 +28,8 @@ Solving the system via the row picture means searching for the exact coordinate 
 
 ![[file-20260705130743425.jpg]]
 
+If we convert the constants $b$ of the linear system to 0, we can see that a contradictory system becomes a redundant system that pass through origin, so this is what generalizes them as singular.
+
 ### 2. The Column Picture: Linear Combinations of Vectors
 
 The column picture shifts the focus from drawing boundaries to **stretching and combining vectors**. Instead of looking at equations, it looks at the matrix $\mathbf{A}$ as a collection of column vectors. It asks: _Can we scale these column vectors by certain amounts ($\mathbf{x}$) so that when we add them together, they land exactly on the target vector $\mathbf{b}$?_

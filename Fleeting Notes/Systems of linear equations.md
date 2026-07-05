@@ -46,10 +46,6 @@ A non-singular system is a system that carries as many pieces of information as 
 - **Redundant System**:  2 or more equations are the same. **It has infinitely many solutions**. (We see that system 3 is more redudant than system 2, we can measure how redundant a system is using a [[Matrix Rank]])
 - **Contradictory System:** equations contradict each other. **It has no solution.**
 
-![[file-20260705132654377.jpg]]
-
-If we convert the constants $b$ of the linear system to 0, we can see that a contradictory system becomes a redundant system that pass through origin, so this is what generalizes them as singular.
-
 ### Python Representation
 
 In machine learning and data science, we rarely solve these systems by hand using row reduction (Gaussian elimination). Instead, we offload the computation to optimized numerical libraries like NumPy.

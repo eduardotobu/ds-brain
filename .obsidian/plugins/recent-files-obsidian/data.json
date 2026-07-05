@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
       "basename": "Systems of linear equations",
       "path": "Fleeting Notes/Systems of linear equations.md"
     },
@@ -9,24 +13,20 @@
       "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
     },
     {
-      "basename": "Vectors are the foundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
+      "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
+      "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
     },
     {
       "basename": "Matrix form of linear equations",
       "path": "Fleeting Notes/Matrix form of linear equations.md"
     },
     {
+      "basename": "Vectors are the foundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
+    },
+    {
       "basename": "Matrices are collections of vectors representing tabular data or weights",
       "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
-    },
-    {
-      "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
-      "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
-    },
-    {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "MOCs/Linear Algebra for Machine Learning.md"
     },
     {
       "basename": "Knowledge Debt",
