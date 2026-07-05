@@ -1,70 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Fleeting Notes/Machine Learning.md"
-    },
-    {
-      "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
-      "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
-    },
-    {
-      "basename": "Matrices are collections of vectors representing tabular data or weights",
-      "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
-    },
-    {
-      "basename": "Vectors are the foundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
-    },
-    {
-      "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
-      "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
-    },
-    {
-      "basename": "Algorithm (Permanent Note)",
-      "path": "Templates/Algorithm (Permanent Note).md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
-    },
-    {
-      "basename": "Concept (Permanent Note)",
-      "path": "Templates/Concept (Permanent Note).md"
-    },
-    {
-      "basename": "Concept - Example",
-      "path": "Templates/Concept - Example.md"
-    },
-    {
-      "basename": "Algorithm - Example",
-      "path": "Templates/Algorithm - Example.md"
-    },
-    {
-      "basename": "MOC - Example",
-      "path": "Templates/MOC - Example.md"
-    },
-    {
-      "basename": "Empirical Risk",
-      "path": "Fleeting Notes/Empirical Risk.md"
-    },
-    {
-      "basename": "A Concrete Example of a Supervised Learning Task",
-      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
-    },
-    {
-      "basename": "Supervised Learning",
-      "path": "Fleeting Notes/Supervised Learning.md"
-    },
-    {
-      "basename": "Linear Regression Closed Form Solution",
-      "path": "Fleeting Notes/Linear Regression Closed Form Solution.md"
-    },
-    {
       "basename": "Linear Regression",
       "path": "Fleeting Notes/Linear Regression.md"
     },
@@ -73,24 +9,12 @@
       "path": "Fleeting Notes/Optimization Algorithms.md"
     },
     {
-      "basename": "Regularization and Generalization",
-      "path": "Fleeting Notes/Regularization and Generalization.md"
-    },
-    {
-      "basename": "The lambda Parameter (Regularization Parameter)",
-      "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
-    },
-    {
-      "basename": "Knowledge Debt",
-      "path": "Knowlegde Debt/Knowledge Debt.md"
-    },
-    {
       "basename": "Regularization",
       "path": "Knowlegde Debt/Regularization.md"
     },
     {
-      "basename": "Gradient Based Approach",
-      "path": "Fleeting Notes/Gradient Based Approach.md"
+      "basename": "Knowledge Debt",
+      "path": "Knowlegde Debt/Knowledge Debt.md"
     },
     {
       "basename": "Regression",
@@ -99,6 +23,10 @@
     {
       "basename": "Stochastic Gradient Descent",
       "path": "Fleeting Notes/Stochastic Gradient Descent.md"
+    },
+    {
+      "basename": "Supervised Learning",
+      "path": "Fleeting Notes/Supervised Learning.md"
     },
     {
       "basename": "The Realizable Case - Quadratic Program",
@@ -113,12 +41,28 @@
       "path": "Fleeting Notes/Gradient Descent.md"
     },
     {
+      "basename": "Regularization and Generalization",
+      "path": "Fleeting Notes/Regularization and Generalization.md"
+    },
+    {
+      "basename": "The lambda Parameter (Regularization Parameter)",
+      "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
+    },
+    {
       "basename": "Hinge loss and objective function",
       "path": "Fleeting Notes/Hinge loss and objective function.md"
     },
     {
       "basename": "Margin Boundary",
       "path": "Fleeting Notes/Margin Boundary.md"
+    },
+    {
+      "basename": "A Concrete Example of a Supervised Learning Task",
+      "path": "Fleeting Notes/A Concrete Example of a Supervised Learning Task.md"
+    },
+    {
+      "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
+      "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
     },
     {
       "basename": "Linear Classifiers Mathematically Revisited",
