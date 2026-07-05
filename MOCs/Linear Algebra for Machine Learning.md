@@ -13,13 +13,13 @@ tags:
 1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
 	1. [[Vectors are the foundational data structure of Machine Learning]]
 	2. [[Matrices are collections of vectors representing tabular data or weights]]
-
 ### 1. Matrix Mechanics & Systems of Equations
 
 1. [[Systems of linear equations]]
 	1. [[Geometric interpretation of linear systems]]
 	2. [[Matrix form of linear equations]]
-- **103_Gaussian_Elimination_and_Row_Reduction**
+	3. [[Matrix singularity determines if a linear system is complete, redundant, or contradictory]]
+	4. [[Gaussian elimination and row reduction]]
 - **104_Row_Echelon_Form_and_Reduced_Row_Echelon_Form**
 - **110_Matrix_Arithmetic_Operations**
 - **111_Matrix_Multiplication_Properties**

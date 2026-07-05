@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "MOCs/Linear Algebra for Machine Learning.md"
+      "basename": "Matrix singularity determines if a linear system is complete, redundant, or contradictory",
+      "path": "Fleeting Notes/Matrix singularity determines if a linear system is complete, redundant, or contradictory.md"
     },
     {
       "basename": "Systems of linear equations",
@@ -13,12 +13,24 @@
       "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
     },
     {
-      "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
-      "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
+      "basename": "Gaussian elimination and row reduction",
+      "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
+    },
+    {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
+      "basename": "file-20260705123607867",
+      "path": "Fleeting Notes/assets/Systems of linear equations/file-20260705123607867.jpg"
     },
     {
       "basename": "Matrix form of linear equations",
       "path": "Fleeting Notes/Matrix form of linear equations.md"
+    },
+    {
+      "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
+      "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
     },
     {
       "basename": "Vectors are the foundational data structure of Machine Learning",

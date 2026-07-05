@@ -12,7 +12,6 @@ Up: "[[Systems of linear equations]]"
 # Geometric interpretation of linear systems
 
 We can view a linear system through two distinct geometric lenses: the **Row Picture** and the **Column Picture**.
-
 ### 1. The Row Picture: Intersecting Hyperplanes
 
 In the row picture, each individual equation in the system represents a geometric constraint.
@@ -22,13 +21,13 @@ In the row picture, each individual equation in the system represents a geometri
 - In an $n$-dimensional space, an equation represents an $(n-1)$-dimensional **hyperplane**.
 
 Solving the system via the row picture means searching for the exact coordinate in space where all these hyperplanes intersect.
+
 - **Unique Solution (Complete System):** The hyperplanes cross at a single, distinct point.
 - **Infinite Solutions (Redundant System):** The hyperplanes overlap perfectly along a shared line or subspace.
 - **No Solution (Contradictory System):** The hyperplanes are parallel or do not share a single mutual intersection point.
 
 ![[file-20260705130743425.jpg]]
-
-If we convert the constants $b$ of the linear system to 0, we can see that a contradictory system becomes a redundant system that pass through origin, so this is what generalizes them as singular.
+[[Matrix singularity determines if a linear system is complete, redundant, or contradictory]] 
 
 ### 2. The Column Picture: Linear Combinations of Vectors
 

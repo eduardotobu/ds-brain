@@ -33,18 +33,10 @@ More detail on: [[Matrix form of linear equations]]
 To truly understand a system of equations, we look at it through two distinct geometric perspectives:
 [[Geometric interpretation of linear systems]]
 
-### Kind of Systems (Singularity)
+### Matrix Singularity
 
-A non-singular system is a system that carries as many pieces of information as sentences.
+[[Matrix singularity determines if a linear system is complete, redundant, or contradictory]]
 
-![[file-20260705123607867.jpg]]
-
-**Non-singular systems.**
-- **Complete System**: enough equations with enough pieces of information. **It has a unique solution**
-
-**Singular systems:**
-- **Redundant System**:  2 or more equations are the same. **It has infinitely many solutions**. (We see that system 3 is more redudant than system 2, we can measure how redundant a system is using a [[Matrix Rank]])
-- **Contradictory System:** equations contradict each other. **It has no solution.**
 
 ### Python Representation
 
