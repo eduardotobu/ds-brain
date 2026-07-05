@@ -11,9 +11,9 @@ tags:
 [[Vectors are the foundational data structure of Machine Learning]]
 [[Matrices are collections of vectors representing tabular data or weights]]
 [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
-### 100 Matrix Mechanics & Systems of Equations
+### 1. Matrix Mechanics & Systems of Equations
 
-- **100_Systems_of_Equations_Overview**
+- 1. [[Systems of equations overview]]
 - **101_Geometric_Interpretation_of_Linear_Systems**
 - **102_Matrix_Form_of_Linear_Equations**
 - **103_Gaussian_Elimination_and_Row_Reduction**

@@ -11,34 +11,27 @@
       "query": "[\"type\":moc]",
       "color": {
         "a": 1,
-        "rgb": 14872601
+        "rgb": 3589190
       }
     },
     {
-      "query": "[\"type\":permanent][\"subtype\":concept]",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 1685548
-      }
-    },
-    {
-      "query": "[\"type\":permanent][\"subtype\":algorithm]",
-      "color": {
-        "a": 1,
-        "rgb": 15737912
+        "rgb": 14725458
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.01875,
-  "lineSizeMultiplier": 1.04427083333333,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5168962529158375,
-  "close": true
+  "scale": 1.2414543899483035,
+  "close": false
 }
