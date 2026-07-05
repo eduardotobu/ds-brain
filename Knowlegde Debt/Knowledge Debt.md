@@ -1,5 +1,4 @@
 Linear Algebra:
-[[Vectors]]
 [[Matrices]]
 [[Vector Sum and Substraction]]
 [[Dot Product]]

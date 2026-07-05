@@ -6,7 +6,7 @@ created: 2026-07-05 00:31:28
 aliases: []
 tags:
   - linear-algebra
-Up: "[[Systems of equations]]"
+Up: "[[Systems of linear equations]]"
 ---
 
 # Geometric interpretation of linear systems
@@ -22,10 +22,10 @@ In the row picture, each individual equation in the system represents a geometri
 - In an $n$-dimensional space, an equation represents an $(n-1)$-dimensional **hyperplane**.
 
 Solving the system via the row picture means searching for the exact coordinate in space where all these hyperplanes intersect.
-
-- **Unique Solution:** The hyperplanes cross at a single, distinct point.
-- **No Solution:** The hyperplanes are parallel or do not share a single mutual intersection point.
-- **Infinite Solutions:** The hyperplanes overlap perfectly along a shared line or subspace.
+- **Unique Solution (Complete System):** The hyperplanes cross at a single, distinct point.
+- **Infinite Solutions (Redundant System):** The hyperplanes overlap perfectly along a shared line or subspace.
+- **No Solution (Contradictory System):** The hyperplanes are parallel or do not share a single mutual intersection point.
+![[file-20260705130743425.jpg]]
 
 ### 2. The Column Picture: Linear Combinations of Vectors
 

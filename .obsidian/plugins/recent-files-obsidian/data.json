@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Systems of equations",
-      "path": "Fleeting Notes/Systems of equations.md"
-    },
-    {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
-    },
-    {
       "basename": "Geometric interpretation of linear systems",
       "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
+    },
+    {
+      "basename": "Systems of linear equations",
+      "path": "Fleeting Notes/Systems of linear equations.md"
+    },
+    {
+      "basename": "Matrix form of linear equations",
+      "path": "Fleeting Notes/Matrix form of linear equations.md"
     },
     {
       "basename": "Matrices are collections of vectors representing tabular data or weights",
       "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
     },
     {
-      "basename": "Linear Regression",
-      "path": "Fleeting Notes/Linear Regression.md"
+      "basename": "Vectors are the foundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
     },
     {
       "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
       "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
     },
     {
-      "basename": "Vectors are the foundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
+      "basename": "Knowledge Debt",
+      "path": "Knowlegde Debt/Knowledge Debt.md"
+    },
+    {
+      "basename": "Linear Regression",
+      "path": "Fleeting Notes/Linear Regression.md"
     },
     {
       "basename": "Regression",
@@ -34,7 +42,7 @@
     },
     {
       "basename": "Machine Learning",
-      "path": "Fleeting Notes/Machine Learning.md"
+      "path": "MOCs/Machine Learning.md"
     },
     {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
@@ -91,10 +99,6 @@
     {
       "basename": "The lambda Parameter (Regularization Parameter)",
       "path": "Fleeting Notes/The lambda Parameter (Regularization Parameter).md"
-    },
-    {
-      "basename": "Knowledge Debt",
-      "path": "Knowlegde Debt/Knowledge Debt.md"
     },
     {
       "basename": "Regularization",

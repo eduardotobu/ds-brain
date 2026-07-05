@@ -7,11 +7,11 @@ aliases:
   - matrices
 tags:
   - linear-algebra
-Up: "[[Linear Algebra for Machine Learning]]"
+Up: "[[Tensors are multi-dimensional arrays that generalize vectors and matrices]]"
 ---
 # Matrices are collections of vectors representing tabular data or weights
 
-If a vector is a single row or column of numbers, a **matrix is a two-dimensional grid of numbers**. You can think of a matrix as multiple [[Vectors are the foundational data structure of Machine Learning|vectors]] stacked together. Because it has two axes (rows and columns), a matrix is classified as a 2nd-order [[Tensors are multi-dimensional arrays that generalize vectors and matrices|tensor]].
+If a vector is a single row or column of numbers, a **matrix is a two-dimensional grid of numbers**. You can think of a matrix as multiple **vectors** stacked together. Because it has two axes (rows and columns), a matrix is classified as a 2nd-order **tensor**.
 
 In machine learning, matrices are the primary structure used to store entire datasets and the complex network of weights inside algorithms.
 
@@ -50,9 +50,3 @@ Depending on its place in the pipeline, a matrix usually represents one of the f
 - **The Design Matrix (Dataset):** Often denoted as $\mathbf{X}$, this is your entire tabular dataset. Each row is an individual [[Feature Vector]] (a single data point, like one house), and each column represents a specific feature across all data points.
 - **Weight Matrices:** In neural networks, the connections between neurons in one layer and the next are stored in a weight matrix, often denoted as $\mathbf{W}$. Processing data through a neural network heavily relies on [[Matrix Multiplication]].
 - **Images:** A single grayscale image is processed by computer vision models as a 2D matrix, where each number represents the intensity of a specific pixel.
-
-**Related notes to create/link:**
-
-- Multiplying matrices: [[Matrix Multiplication transforms vector spaces]]
-- Flipping rows and columns: [[Matrix Transposition swaps axes]]
-- Adding dimensions: [[Color images are 3D Tensors]]

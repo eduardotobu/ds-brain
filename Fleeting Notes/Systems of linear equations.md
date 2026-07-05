@@ -9,7 +9,7 @@ tags:
 Up: "[[Linear Algebra for Machine Learning]]"
 ---
 
-# Systems of equations
+# Systems of linear equations
 
 At its historical and practical core, linear algebra was developed to systematically solve **systems of linear equations**—sets of multiple equations with multiple unknown variables that must be satisfied simultaneously.
 
@@ -26,11 +26,28 @@ Linear algebra allows us to compress this messy list of equations into a clean, 
 $$\mathbf{A}\mathbf{x} = \mathbf{b}$$
 
 Where $\mathbf{A}$ is the $m \times n$ matrix of coefficients, $\mathbf{x}$ is the $n$-dimensional vector of unknowns, and $\mathbf{b}$ is the $m$-dimensional vector of constants.
+More detail on: [[Matrix form of linear equations]]
 
 ### The Two Geometric Views
 
 To truly understand a system of equations, we look at it through two distinct geometric perspectives:
 [[Geometric interpretation of linear systems]]
+
+### Kind of Systems (Singularity)
+
+A non-singular system is a system that carries as many pieces of information as sentences.
+
+![[file-20260705123607867.jpg]]
+
+**Non-singular systems.**
+- **Complete System**: enough equations with enough pieces of information. **It has a unique solution**
+
+**Singular systems:**
+- **Redundant System**:  2 or more equations are the same. **It has infinitely many solutions**. (We see that system 3 is more redudant than system 2, we can measure how redundant a system is using a [[Matrix Rank]])
+- **Contradictory System:** equations contradict each other. **It has no solution.**
+
+![[file-20260705124834635.jpg]]
+
 
 ### Python Representation
 
