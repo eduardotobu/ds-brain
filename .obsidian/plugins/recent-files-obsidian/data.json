@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Systems of linear equations",
+      "path": "Fleeting Notes/Systems of linear equations.md"
+    },
+    {
       "basename": "Geometric interpretation of linear systems",
       "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
     },
     {
-      "basename": "Systems of linear equations",
-      "path": "Fleeting Notes/Systems of linear equations.md"
+      "basename": "Vectors are the foundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
     },
     {
       "basename": "Matrix form of linear equations",
@@ -15,10 +19,6 @@
     {
       "basename": "Matrices are collections of vectors representing tabular data or weights",
       "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
-    },
-    {
-      "basename": "Vectors are the foundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
     },
     {
       "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",

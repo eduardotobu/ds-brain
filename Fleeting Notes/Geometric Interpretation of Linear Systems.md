@@ -25,6 +25,7 @@ Solving the system via the row picture means searching for the exact coordinate 
 - **Unique Solution (Complete System):** The hyperplanes cross at a single, distinct point.
 - **Infinite Solutions (Redundant System):** The hyperplanes overlap perfectly along a shared line or subspace.
 - **No Solution (Contradictory System):** The hyperplanes are parallel or do not share a single mutual intersection point.
+
 ![[file-20260705130743425.jpg]]
 
 ### 2. The Column Picture: Linear Combinations of Vectors
