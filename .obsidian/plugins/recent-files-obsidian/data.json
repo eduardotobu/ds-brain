@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Gaussian elimination and row reduction",
+      "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
+    },
+    {
       "basename": "Matrix singularity determines if a linear system is complete, redundant, or contradictory",
       "path": "Fleeting Notes/Matrix singularity determines if a linear system is complete, redundant, or contradictory.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Geometric interpretation of linear systems",
       "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
-    },
-    {
-      "basename": "Gaussian elimination and row reduction",
-      "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
     },
     {
       "basename": "file-20260705123607867",
