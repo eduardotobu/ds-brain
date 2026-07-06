@@ -9,7 +9,6 @@ tags:
   - algorithm
 family:
 ---
-
 # {{title}}
 
 ## TL;DR

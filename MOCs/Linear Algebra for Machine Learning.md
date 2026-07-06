@@ -19,7 +19,8 @@ tags:
 	1. [[Geometric interpretation of linear systems]]
 	2. [[Matrix form of linear equations]]
 	3. [[Matrix singularity determines if a linear system is complete, redundant, or contradictory]]
-	4. [[Gaussian elimination and row reduction]]
+	4. [[Linear independence ensures vectors provide non-redundant information in a vector space]]
+	5. [[Gaussian elimination and row reduction]]
 - **104_Row_Echelon_Form_and_Reduced_Row_Echelon_Form**
 - **110_Matrix_Arithmetic_Operations**
 - **111_Matrix_Multiplication_Properties**

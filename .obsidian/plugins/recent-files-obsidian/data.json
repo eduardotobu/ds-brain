@@ -5,6 +5,38 @@
       "path": "Fleeting Notes/Matrix singularity determines if a linear system is complete, redundant, or contradictory.md"
     },
     {
+      "basename": "Linear independence ensures vectors provide non-redundant information in a vector space",
+      "path": "Fleeting Notes/Linear independence ensures vectors provide non-redundant information in a vector space.md"
+    },
+    {
+      "basename": "MOC - Example",
+      "path": "Templates/MOC - Example.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Templates/MOC.md"
+    },
+    {
+      "basename": "Concept (Permanent Note)",
+      "path": "Templates/Concept (Permanent Note).md"
+    },
+    {
+      "basename": "Algorithm (Permanent Note)",
+      "path": "Templates/Algorithm (Permanent Note).md"
+    },
+    {
+      "basename": "Algorithm - Example",
+      "path": "Templates/Algorithm - Example.md"
+    },
+    {
+      "basename": "Concept - Example",
+      "path": "Templates/Concept - Example.md"
+    },
+    {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
       "basename": "Systems of linear equations",
       "path": "Fleeting Notes/Systems of linear equations.md"
     },
@@ -15,10 +47,6 @@
     {
       "basename": "Gaussian elimination and row reduction",
       "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
-    },
-    {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "MOCs/Linear Algebra for Machine Learning.md"
     },
     {
       "basename": "file-20260705123607867",
@@ -59,30 +87,6 @@
     {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",
       "path": "Fleeting Notes/Introduction to Hinge loss, Margin Boundaries and Regularization.md"
-    },
-    {
-      "basename": "Algorithm (Permanent Note)",
-      "path": "Templates/Algorithm (Permanent Note).md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Templates/MOC.md"
-    },
-    {
-      "basename": "Concept (Permanent Note)",
-      "path": "Templates/Concept (Permanent Note).md"
-    },
-    {
-      "basename": "Concept - Example",
-      "path": "Templates/Concept - Example.md"
-    },
-    {
-      "basename": "Algorithm - Example",
-      "path": "Templates/Algorithm - Example.md"
-    },
-    {
-      "basename": "MOC - Example",
-      "path": "Templates/MOC - Example.md"
     },
     {
       "basename": "Empirical Risk",
