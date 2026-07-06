@@ -31,7 +31,7 @@ tags:
 
 ### 200 Determinants
 
-- **200_Determinants_Overview**
+1. [[The determinant measures how a matrix scales space and determines invertibility]]
 - **201_Geometric_Meaning_of_Determinants_Area_and_Volume**
 - **202_Determinant_Calculation_Rules_and_Row_Operations**
 - **203_Cofactor_Expansion_Method**

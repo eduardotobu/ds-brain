@@ -74,8 +74,7 @@ Every time a model learns, it is essentially trying to solve or approximate a ma
 
 
 **Related notes to create/link:**
-
+- A method to solve a linear equation system: [[Gaussian elimination and row reduction]]
 - Combining vectors geometrically: [[Linear Combinations span vector spaces]]
 - When a system cannot be perfectly solved: [[The Normal Equation solves overdetermined systems in Linear Regression]]
-
 

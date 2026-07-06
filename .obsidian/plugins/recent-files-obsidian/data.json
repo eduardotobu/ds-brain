@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "The determinant measures how a matrix scales space and determines invertibility",
+      "path": "Fleeting Notes/The determinant measures how a matrix scales space and determines invertibility.md"
+    },
+    {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
       "basename": "Matrix singularity determines if a linear system is complete, redundant, or contradictory",
       "path": "Fleeting Notes/Matrix singularity determines if a linear system is complete, redundant, or contradictory.md"
+    },
+    {
+      "basename": "Systems of linear equations",
+      "path": "Fleeting Notes/Systems of linear equations.md"
     },
     {
       "basename": "Linear independence ensures vectors provide non-redundant information in a vector space",
@@ -31,14 +43,6 @@
     {
       "basename": "Concept - Example",
       "path": "Templates/Concept - Example.md"
-    },
-    {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "MOCs/Linear Algebra for Machine Learning.md"
-    },
-    {
-      "basename": "Systems of linear equations",
-      "path": "Fleeting Notes/Systems of linear equations.md"
     },
     {
       "basename": "Geometric interpretation of linear systems",

@@ -83,4 +83,4 @@ Recognizing singularity is highly critical when training models:
 - When inversion breaks down: [[Matrix Inversion requires non-zero determinants and full rank]]
 - Resolving singular systems practically: [[Regularization prevents overfitting in singular data spaces]]
 - Linear dependence and independence: [[Linear independence ensures vectors provide non-redundant information in a vector space]]
-- Faster way to know if a matrix is singular or not singular: 
+- Faster way to know if a matrix is singular or not singular: [[The determinant measures how a matrix scales space and determines invertibility]]
