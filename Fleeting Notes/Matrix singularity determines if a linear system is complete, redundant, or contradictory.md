@@ -47,6 +47,29 @@ In a **contradictory system**, the equations mathematically conflict with one an
 
 $$\begin{aligned} x + y &= 5 \\ x + y &= 10 \quad \text{(An impossible contradiction)} \end{aligned}$$
 
+# Singularity vs. Non-Singularity in Matrices
+
+A fundamental concept in linear algebra is distinguishing between singular and non-singular matrices. This distinction dictates whether a matrix retains mathematical information during a transformation or loses it.
+
+## Comparative Table
+
+Below is the comparative table covering the algebraic and geometric properties of both matrices:
+
+| Property | Singular Matrix | Non-Singular Matrix |
+| :--- | :--- | :--- |
+| **Determinant** | Equal to zero ($\vert A \vert = 0$) | Not equal to zero ($\vert A \vert \neq 0$) |
+| **Inverse** | Does not have an inverse matrix | Has an inverse matrix ($A^{-1}$ exists) |
+| **Rank** | Less than the size of the matrix (rank-deficient) | Equal to the size of the matrix (full rank) |
+| **Rows and Columns** | Are linearly dependent (one is a linear combination of another) | Are linearly independent |
+| **System of Equations** | Has infinite solutions or no solution | Guaranteed to have a unique solution |
+| **Eigenvalues** | At least one eigenvalue is zero | No eigenvalue is zero |
+
+## The Geometric Concept
+
+A square matrix represents a linear transformation. When you apply a **non-singular matrix** (whose determinant is $\neq 0$), the mathematical space maintains all its original dimensions. Because coordinate information is not lost during this transformation, there is always an exact way back, which explains why the inverse matrix ($A^{-1}$) always exists.
+
+In contrast, a **singular matrix** (determinant equal to $0$) literally "collapses" the mathematical space into a lower dimension. For example, it transforms a whole three-dimensional (3D) space and squashes it flat, leaving it as a plane (2D) or a simple straight line (1D). Since multiple starting points end up squashed into the same destination, it is impossible to know where each one came from. Since there is no path back, it is mathematically impossible to calculate an inverse matrix.
+
 ### Python Representation
 
 In NumPy, attempting to solve a singular system (whether redundant or contradictory) using `np.linalg.solve()` will throw a `LinAlgError` because a singular matrix cannot be inverted. We can screen for singularity by checking if the matrix determinant is zero.
