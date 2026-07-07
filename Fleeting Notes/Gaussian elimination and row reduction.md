@@ -12,7 +12,7 @@ family:
 
 **Gaussian Elimination** (also known as row reduction) is a systematic, step-by-step algorithmic procedure used to solve systems of linear equations, find the inverse of a matrix, and determine a matrix's rank.
 
-The algorithm takes an augmented matrix—which merges the coefficient matrix $\mathbf{A}$ and target vector $\mathbf{b}$ from $\mathbf{Ax}=\mathbf{b}$—and applies a sequence of **Elementary Row Operations** to transform it into an upper triangular structure called **Row Echelon Form (REF)**. From there, a process called **back-substitution** is used to find the exact values of the unknown variables.
+The algorithm takes an **augmented matrix**—which merges the coefficient matrix $\mathbf{A}$ and target vector $\mathbf{b}$ from $\mathbf{Ax}=\mathbf{b}$—and applies a sequence of **Elementary Row Operations** to transform it into an upper triangular structure called **Row Echelon Form (REF)**. From there, a process called **back-substitution** is used to find the exact values of the unknown variables.
 
 ### The Three Elementary Row Operations
 
@@ -21,6 +21,8 @@ To reduce a matrix without altering the underlying solution of the linear system
 1. **Swapping:** Switch the positions of two rows.
 2. **Scaling:** Multiply all elements in a single row by a non-zero scalar.
 3. **Row Addition/Subtraction:** Add or subtract a multiple of one row to another row.
+
+One important property is that **if you perform any of these operations on a matrix it will preserve singularity**: If it's a singular matrix it will still be a singular matrix and if it's a non-singular matrix it will still be a non-singulat matrix.
 
 ### Mathematical Pipeline
 

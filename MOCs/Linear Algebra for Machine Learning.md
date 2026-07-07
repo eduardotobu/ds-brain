@@ -7,6 +7,13 @@ tags:
   - machine-learning
 ---
 # Linear Algebra for Machine Learning — Map of Content
+## Pendiente agregar a notas:
+All the possible information about a matrix:
+Singularity
+Determinant
+Rank
+Solutions
+Graphical Representation
 
 ### 0. Building Blocks
 
@@ -21,7 +28,8 @@ tags:
 	3. [[Matrix singularity determines if a linear system is complete, redundant, or contradictory]]
 	4. [[Linear independence ensures vectors provide non-redundant information in a vector space]]
 	5. [[Gaussian elimination and row reduction]]
-- **104_Row_Echelon_Form_and_Reduced_Row_Echelon_Form**
+	6. [[Matrix rank quantifies the number of independent dimensions in a data space]] 
+	7. [[Row Echelon Form and RREF expose the structural foundation of a matrix]]
 - **110_Matrix_Arithmetic_Operations**
 - **111_Matrix_Multiplication_Properties**
 - **112_The_Matrix_Transpose**

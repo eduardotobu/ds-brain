@@ -18,6 +18,8 @@ In linear algebra, **singularity** describes whether a matrix (or system of equa
 
 A **non-singular system** carries exactly as many unique pieces of information as there are equations. It represents a **complete system** where there are enough constraints to pin down an answer without any redundancy or conflict.
 
+**<u>Only square matrices can be non-singular</u>**
+
 - **Geometric Behavior:** The hyperplanes intersect at exactly one point.
 - **Solutions:** It has a **unique solution**.
 - **Determinant:** $\det(\mathbf{A}) \neq 0$ (the matrix can be inverted).

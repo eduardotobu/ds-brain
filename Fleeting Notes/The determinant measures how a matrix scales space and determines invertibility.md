@@ -10,7 +10,7 @@ Up: "[[Linear Algebra for Machine Learning]]"
 ---
 # The determinant measures how a matrix scales space and determines invertibility
 
-The **determinant** is a special scalar value that can only be computed from a **square matrix** (a matrix with equal rows and columns). It provides two critical pieces of information: geometrically, it measures how much a linear transformation scales area or volume, and algebraically, it tells us whether a system of linear equations has a unique solution.
+The **determinant** is a special scalar value that <u>can only be computed from a square matrix</u> (a matrix with equal rows and columns). It provides two critical pieces of information: geometrically, it measures how much a linear transformation scales area or volume, and algebraically, it tells us whether a system of linear equations has a unique solution.
 
 ### 1. Geometric Interpretation: Scaling Space
 

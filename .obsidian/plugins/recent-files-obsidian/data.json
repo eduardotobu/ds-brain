@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Linear Algebra for Machine Learning",
+      "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
       "basename": "Gaussian elimination and row reduction",
       "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
+    },
+    {
+      "basename": "Matrix rank quantifies the number of independent dimensions in a data space",
+      "path": "Fleeting Notes/Matrix rank quantifies the number of independent dimensions in a data space.md"
+    },
+    {
+      "basename": "Row Echelon Form and RREF expose the structural foundation of a matrix",
+      "path": "Fleeting Notes/Row Echelon Form and RREF expose the structural foundation of a matrix.md"
     },
     {
       "basename": "Matrix singularity determines if a linear system is complete, redundant, or contradictory",
@@ -13,12 +25,16 @@
       "path": "Fleeting Notes/The determinant measures how a matrix scales space and determines invertibility.md"
     },
     {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "MOCs/Linear Algebra for Machine Learning.md"
+      "basename": "Geometric interpretation of linear systems",
+      "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
     },
     {
       "basename": "Systems of linear equations",
       "path": "Fleeting Notes/Systems of linear equations.md"
+    },
+    {
+      "basename": "Matrix form of linear equations",
+      "path": "Fleeting Notes/Matrix form of linear equations.md"
     },
     {
       "basename": "Linear independence ensures vectors provide non-redundant information in a vector space",
@@ -49,16 +65,8 @@
       "path": "Templates/Concept - Example.md"
     },
     {
-      "basename": "Geometric interpretation of linear systems",
-      "path": "Fleeting Notes/Geometric interpretation of linear systems.md"
-    },
-    {
       "basename": "file-20260705123607867",
       "path": "Fleeting Notes/assets/Systems of linear equations/file-20260705123607867.jpg"
-    },
-    {
-      "basename": "Matrix form of linear equations",
-      "path": "Fleeting Notes/Matrix form of linear equations.md"
     },
     {
       "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
