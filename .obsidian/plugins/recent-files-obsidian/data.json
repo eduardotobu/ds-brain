@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Linear Algebra for Machine Learning",
-      "path": "Fleeting Notes/Linear Algebra for Machine Learning.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Fleeting Notes/Machine Learning.md"
+      "basename": "Vectors are the foundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
     },
     {
       "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
@@ -15,10 +11,6 @@
     {
       "basename": "Matrices are collections of vectors representing tabular data or weights",
       "path": "Fleeting Notes/Matrices are collections of vectors representing tabular data or weights.md"
-    },
-    {
-      "basename": "Vectors are the foundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
     },
     {
       "basename": "Introduction to Hinge loss, Margin Boundaries and Regularization",

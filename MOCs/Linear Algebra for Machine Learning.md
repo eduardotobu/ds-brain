@@ -7,17 +7,31 @@ tags:
   - machine-learning
 ---
 # Linear Algebra for Machine Learning — Map of Content
+## Pendiente agregar a notas:
+All the possible information about a matrix:
+Singularity
+Determinant
+Rank
+Solutions
+Graphical Representation
 
-[[Vectors are the foundational data structure of Machine Learning]]
-[[Matrices are collections of vectors representing tabular data or weights]]
-[[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
-### 100 Matrix Mechanics & Systems of Equations
+No se donde ponerla, probablemente abajo de vectores:
+[[Unit vectors and angles isolate a vector's direction from its magnitude]]
+### 0. Building Blocks
 
-- **100_Systems_of_Equations_Overview**
-- **101_Geometric_Interpretation_of_Linear_Systems**
-- **102_Matrix_Form_of_Linear_Equations**
-- **103_Gaussian_Elimination_and_Row_Reduction**
-- **104_Row_Echelon_Form_and_Reduced_Row_Echelon_Form**
+1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
+	1. [[Vectors are the foundational data structure of Machine Learning]]
+	2. [[Matrices are collections of vectors representing tabular data or weights]]
+### 1. Matrix Mechanics & Systems of Equations
+
+1. [[Systems of linear equations]]
+	1. [[Geometric interpretation of linear systems]]
+	2. [[Matrix form of linear equations]]
+	3. [[Matrix singularity determines if a linear system is complete, redundant, or contradictory]]
+	4. [[Linear independence ensures vectors provide non-redundant information in a vector space]]
+	5. [[Gaussian elimination and row reduction]]
+	6. [[Matrix rank quantifies the number of independent dimensions in a data space]] 
+	7. [[Row Echelon Form and RREF expose the structural foundation of a matrix]]
 - **110_Matrix_Arithmetic_Operations**
 - **111_Matrix_Multiplication_Properties**
 - **112_The_Matrix_Transpose**
@@ -27,7 +41,7 @@ tags:
 
 ### 200 Determinants
 
-- **200_Determinants_Overview**
+1. [[The determinant measures how a matrix scales space and determines invertibility]]
 - **201_Geometric_Meaning_of_Determinants_Area_and_Volume**
 - **202_Determinant_Calculation_Rules_and_Row_Operations**
 - **203_Cofactor_Expansion_Method**
@@ -77,12 +91,11 @@ tags:
 ### 700 ML Specifics: Norms & Vector Metrics
 
 - **700_Vector_and_Matrix_Norms_Overview**
-- **710_L1_Norm_Manhattan_Distance**
-- **711_L1_Norm_Application_Lasso_Regularization**
-- **720_L2_Norm_Euclidean_Distance**
-- **721_L2_Norm_Application_Ridge_Regularization**
-- **730_Matrix_Norms_Frobenius_and_Spectral**
-
+1. [[The L1 Norm (Manhattan Distance) calculates absolute distance strictly along grid axes]] 
+2. [[L1 Regularization (Lasso) forces feature weights to exactly zero, creating sparse models]]
+3. [[The L2 Norm (Euclidean Distance) calculates the shortest straight-line path between points]]
+4. [[L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero]]
+Matrix norm
 ### 800 ML Specifics: Matrix Calculus
 
 - **800_Matrix_Calculus_Overview**

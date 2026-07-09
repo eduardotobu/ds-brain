@@ -8,7 +8,6 @@ tags:
   - ml
 Up:
 ---
-
 # {{title}}
 
 [Explain the idea fully in 2–4 sentences, as if writing for your future self
