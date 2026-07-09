@@ -15,6 +15,8 @@ Rank
 Solutions
 Graphical Representation
 
+No se donde ponerla, probablemente abajo de vectores:
+[[Unit vectors and angles isolate a vector's direction from its magnitude]]
 ### 0. Building Blocks
 
 1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
@@ -90,11 +92,10 @@ Graphical Representation
 
 - **700_Vector_and_Matrix_Norms_Overview**
 1. [[The L1 Norm (Manhattan Distance) calculates absolute distance strictly along grid axes]] 
-- **711_L1_Norm_Application_Lasso_Regularization**
-- **720_L2_Norm_Euclidean_Distance**
-- **721_L2_Norm_Application_Ridge_Regularization**
-- **730_Matrix_Norms_Frobenius_and_Spectral**
-
+2. [[L1 Regularization (Lasso) forces feature weights to exactly zero, creating sparse models]]
+3. [[The L2 Norm (Euclidean Distance) calculates the shortest straight-line path between points]]
+4. [[L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero]]
+Matrix norm
 ### 800 ML Specifics: Matrix Calculus
 
 - **800_Matrix_Calculus_Overview**
