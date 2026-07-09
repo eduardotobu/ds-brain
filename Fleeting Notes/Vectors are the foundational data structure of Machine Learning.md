@@ -21,6 +21,7 @@ Mathematically, a vector is typically denoted by a bold lowercase letter and rep
 
 $$\mathbf{x} = \begin{bmatrix} x_1 \\ x_2 \\ \vdots \\ x_n \end{bmatrix}$$
 
+
 ### Python Representation
 
 In machine learning workflows, vectors are almost exclusively handled using **NumPy** arrays or framework-specific tensors (like PyTorch or TensorFlow). A standard Python list can hold the numbers, but a NumPy array provides the underlying C-based mathematical operations required for linear algebra.

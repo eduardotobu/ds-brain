@@ -89,7 +89,7 @@ Graphical Representation
 ### 700 ML Specifics: Norms & Vector Metrics
 
 - **700_Vector_and_Matrix_Norms_Overview**
-- **710_L1_Norm_Manhattan_Distance**
+1. [[The L1 Norm (Manhattan Distance) calculates absolute distance strictly along grid axes]] 
 - **711_L1_Norm_Application_Lasso_Regularization**
 - **720_L2_Norm_Euclidean_Distance**
 - **721_L2_Norm_Application_Ridge_Regularization**

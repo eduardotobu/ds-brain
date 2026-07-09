@@ -5,6 +5,14 @@
       "path": "MOCs/Linear Algebra for Machine Learning.md"
     },
     {
+      "basename": "The determinant measures how a matrix scales space and determines invertibility",
+      "path": "Fleeting Notes/The determinant measures how a matrix scales space and determines invertibility.md"
+    },
+    {
+      "basename": "Vectors are the foundational data structure of Machine Learning",
+      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
+    },
+    {
       "basename": "Gaussian elimination and row reduction",
       "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Matrix singularity determines if a linear system is complete, redundant, or contradictory",
       "path": "Fleeting Notes/Matrix singularity determines if a linear system is complete, redundant, or contradictory.md"
-    },
-    {
-      "basename": "The determinant measures how a matrix scales space and determines invertibility",
-      "path": "Fleeting Notes/The determinant measures how a matrix scales space and determines invertibility.md"
     },
     {
       "basename": "Geometric interpretation of linear systems",
@@ -71,10 +75,6 @@
     {
       "basename": "Tensors are multi-dimensional arrays that generalize vectors and matrices",
       "path": "Fleeting Notes/Tensors are multi-dimensional arrays that generalize vectors and matrices.md"
-    },
-    {
-      "basename": "Vectors are the foundational data structure of Machine Learning",
-      "path": "Fleeting Notes/Vectors are the foundational data structure of Machine Learning.md"
     },
     {
       "basename": "Matrices are collections of vectors representing tabular data or weights",
