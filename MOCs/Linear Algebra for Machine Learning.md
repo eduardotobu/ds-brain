@@ -15,8 +15,17 @@ Rank
 Solutions
 Graphical Representation
 
-No se donde ponerla, probablemente abajo de vectores:
+No se donde ponerlas, probablemente abajo de vectores:
+- Vector Direction Calculation
 [[Unit vectors and angles isolate a vector's direction from its magnitude]]
+- Vector Operations.
+[[Vector Addition and Subtraction define the fundamental arithmetic of linear spaces]]
+[[Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action]]
+[[The Hadamard product for vectors computes their element-wise multiplication to scale individual components independently]]
+- Dot Product
+	Dot product properties and geometry interpretation.
+- Matrix Transpose
+
 ### 0. Building Blocks
 
 1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
