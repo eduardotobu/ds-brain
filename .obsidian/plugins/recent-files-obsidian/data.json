@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another",
+      "path": "Fleeting Notes/Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another.md"
+    },
+    {
       "basename": "Linear Algebra for Machine Learning",
       "path": "MOCs/Linear Algebra for Machine Learning.md"
+    },
+    {
+      "basename": "The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment",
+      "path": "Fleeting Notes/The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment.md"
+    },
+    {
+      "basename": "The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices",
+      "path": "Fleeting Notes/The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices.md"
+    },
+    {
+      "basename": "Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action",
+      "path": "Fleeting Notes/Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action.md"
     },
     {
       "basename": "The Hadamard product for vectors computes their element-wise multiplication to scale individual components independently",
       "path": "Fleeting Notes/The Hadamard product for vectors computes their element-wise multiplication to scale individual components independently.md"
     },
     {
-      "basename": "Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action",
-      "path": "Fleeting Notes/Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action.md"
+      "basename": "L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero",
+      "path": "Fleeting Notes/L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero.md"
+    },
+    {
+      "basename": "Unit vectors and angles isolate a vector's direction from its magnitude",
+      "path": "Fleeting Notes/Unit vectors and angles isolate a vector's direction from its magnitude.md"
     },
     {
       "basename": "Vector Addition and Subtraction define the fundamental arithmetic of linear spaces",
@@ -43,10 +63,6 @@
     {
       "basename": "L1 Regularization (Lasso) forces feature weights to exactly zero, creating sparse models",
       "path": "Fleeting Notes/L1 Regularization (Lasso) forces feature weights to exactly zero, creating sparse models.md"
-    },
-    {
-      "basename": "Unit vectors and angles isolate a vector's direction from its magnitude",
-      "path": "Fleeting Notes/Unit vectors and angles isolate a vector's direction from its magnitude.md"
     },
     {
       "basename": "The L1 Norm (Manhattan Distance) calculates absolute distance strictly along grid axes",

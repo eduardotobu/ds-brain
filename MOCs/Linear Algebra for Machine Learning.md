@@ -17,15 +17,18 @@ Graphical Representation
 
 No se donde ponerlas, probablemente abajo de vectores:
 - Vector Direction Calculation
-[[Unit vectors and angles isolate a vector's direction from its magnitude]]
+[[Unit vectors and angles isolate a vector's direction from its magnitude]] -- Pendiente indagar en producto punto de vectores unitarios siendo lo mismo que $cos(\theta)$ de esos dos vectores.
 - Vector Operations.
 [[Vector Addition and Subtraction define the fundamental arithmetic of linear spaces]]
 [[Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action]]
 [[The Hadamard product for vectors computes their element-wise multiplication to scale individual components independently]]
-- Dot Product
-	Dot product properties and geometry interpretation.
-- Matrix Transpose
+- Dot Product -- Pendiente indagar en más propiedades del producto punto y significado de sus valores, intuicion geometrica.
+  [[The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment]]
 
+- Matrix Transpose
+[[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
+- Matrix Vector Multiplication
+  [[Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another]]
 ### 0. Building Blocks
 
 1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
