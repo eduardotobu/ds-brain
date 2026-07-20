@@ -26,7 +26,7 @@ No se donde ponerlas, probablemente abajo de vectores:
   [[The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment]]
 
 - Matrix Transpose
-[[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
+
 - Matrix Vector Multiplication
   [[Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another]]
 ### 0. Building Blocks
@@ -46,7 +46,7 @@ No se donde ponerlas, probablemente abajo de vectores:
 	7. [[Row Echelon Form and RREF expose the structural foundation of a matrix]]
 - **110_Matrix_Arithmetic_Operations**
 - **111_Matrix_Multiplication_Properties**
-- **112_The_Matrix_Transpose**
+[[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
 - **120_Matrix_Inverses_Definition_and_Properties**
 - **121_Algorithms_for_Computing_Matrix_Inverses**
 - **122_Elementary_Matrices**
