@@ -11,7 +11,6 @@ tags:
 Up: "[[Vectors are the foundational data structure of Machine Learning]]"
 ---
 # Unit vectors and angles isolate a vector's direction from its magnitude
-
 Every vector inherently contains two pieces of information: its magnitude (length) and its **direction** (where it points in space). In machine learning, we often need to isolate the direction and discard the magnitude—for example, when we care about _what_ an embedding represents rather than _how strongly_ it represents it.
 
 We determine and represent a vector's direction in two main ways: geometrically (using angles) or algebraically (by normalizing it into a **unit vector**).
