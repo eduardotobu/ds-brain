@@ -45,6 +45,7 @@ No se donde ponerlas, probablemente abajo de vectores:
 	6. [[Matrix rank quantifies the number of independent dimensions in a data space]] 
 	7. [[Row Echelon Form and RREF expose the structural foundation of a matrix]]
 - **110_Matrix_Arithmetic_Operations**
+- [[Matrix multiplication (Pendiente Formatear)]]
 - **111_Matrix_Multiplication_Properties**
 [[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
 - **120_Matrix_Inverses_Definition_and_Properties**
@@ -74,7 +75,9 @@ No se donde ponerlas, probablemente abajo de vectores:
 
 ### 400 Linear Transformations
 
+
 - **400_Linear_Transformations_Overview**
+[[Linear Transformations (Pendiente formatear)]]
 - **401_Geometric_Transformations_in_Vector_Spaces**
 - **410_Matrix_Representation_of_Linear_Transformations**
 - **420_Kernel_and_Range_of_a_Transformation**
