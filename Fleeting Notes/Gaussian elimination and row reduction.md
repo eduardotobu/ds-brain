@@ -7,6 +7,7 @@ aliases: []
 tags:
   - linear-algebra
 family:
+Up: "[[Systems of linear equations]]"
 ---
 # Gaussian elimination systematically solves linear systems by reducing matrices to upper triangular form
 
@@ -32,7 +33,7 @@ $$\begin{bmatrix} 2 & 1 & | & 5 \\ -1 & 3 & | & 8 \end{bmatrix} \xrightarrow{\te
 
 Once in REF, the last row easily solves for the final variable ($3.5x_2 = 10.5 \rightarrow x_2 = 3$). You then substitute $x_2$ back into the top row to solve for $x_1$.
 
-If you continue eliminating elements _above_ the pivots until the left side becomes the identity matrix, the matrix reaches **Reduced Row Echelon Form (RREF)**, exposing the solution vector directly.
+If you continue eliminating elements _above_ the pivots until the left side becomes the [[The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged|identity matrix]], the matrix reaches **Reduced Row Echelon Form (RREF)**, exposing the solution vector directly.
 
 ### Python Representation
 

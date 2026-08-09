@@ -6,7 +6,7 @@ created: 2026-07-19 19:09:17
 aliases: []
 tags:
   - linear-algebra
-Up:
+Up: "[[Matrices are collections of vectors representing tabular data or weights]]"
 ---
 # Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another
 

@@ -1,3 +1,16 @@
+---
+id: "20260726174600"
+type: permanent
+subtype: concept
+created: 2026-07-26
+aliases:
+  - matrix multiplication
+tags:
+  - linear-algebra
+Up: "[[Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another]]"
+---
+# Matrix multiplication combines two linear transformations into a single transformation
+
 Matrix multiplication corresponds to combining two linear transformations into a third one. 
 
 Let's assume we have a basis that goes through 2 linear transformations. If you ignore the middle one, theres a linear transformation between the first and the third, the question is what matrix corresponds to that linear transformation?
@@ -6,7 +19,7 @@ Visually it goes like this.
 ![[file-20260726174641826.jpg]]
 
 
- To multiply the two matrices to obtaining the third one, first we put the second matrix and then the first one. As we do in [[Linear Transformations (Pendiente formatear)]] we can see the first transformation as the first basis group of vectors so they go on the right (like the vector to transform) and the transformator we always put it on the left:
+ To multiply the two matrices to obtaining the third one, first we put the second matrix and then the first one. As we do in [[Linear transformations map vectors between coordinate spaces by redefining basis vectors]] we can see the first transformation as the first basis group of vectors so they go on the right (like the vector to transform) and the transformator we always put it on the left:
  ![[file-20260726175159350.jpg]]
 So it will always go like this:
 $$\text{transformator}*\text{thing to transform}=\text{thing transformed}$$
@@ -30,11 +43,11 @@ When you multiply two matrices of different dimensions, you are simply **chainin
 
 Let's break down the exact dimensions from your image:
 
-|**Matrix**|**Dimensions**|**Geometric Meaning**|**What Happens to Space?**|
-|---|---|---|---|
-|**Right Matrix ($B$)**|$3 \times 4$|Maps $\mathbb{R}^4 \to \mathbb{R}^3$|Takes 4D vectors and projects them into 3D space.|
-|**Left Matrix ($A$)**|$2 \times 3$|Maps $\mathbb{R}^3 \to \mathbb{R}^2$|Takes those new 3D vectors and squishes them into 2D space.|
-|**Result Matrix ($C$)**|$2 \times 4$|Maps $\mathbb{R}^4 \to \mathbb{R}^2$|The **direct shortcut** mapping directly from 4D to 2D!|
+| **Matrix**              | **Dimensions** | **Geometric Meaning**                | **What Happens to Space?**                                  |
+| ----------------------- | -------------- | ------------------------------------ | ----------------------------------------------------------- |
+| **Right Matrix ($B$)**  | $3 \times 4$   | Maps $\mathbb{R}^4 \to \mathbb{R}^3$ | Takes 4D vectors and projects them into 3D space.           |
+| **Left Matrix ($A$)**   | $2 \times 3$   | Maps $\mathbb{R}^3 \to \mathbb{R}^2$ | Takes those new 3D vectors and squishes them into 2D space. |
+| **Result Matrix ($C$)** | $2 \times 4$   | Maps $\mathbb{R}^4 \to \mathbb{R}^2$ | The **direct shortcut** mapping directly from 4D to 2D!     |
 
 When you compute $A \cdot B$, you are asking: _"If I apply transformation $B$ first, and then immediately apply transformation $A$ to the result, what is the single, combined transformation?"_
 

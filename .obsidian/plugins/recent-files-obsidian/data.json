@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Matrix Inversion requires non-zero determinants and full rank",
+      "path": "Fleeting Notes/Matrix Inversion requires non-zero determinants and full rank.md"
+    },
+    {
       "basename": "Linear Algebra for Machine Learning",
       "path": "MOCs/Linear Algebra for Machine Learning.md"
     },
     {
-      "basename": "Matrix multiplication (Pendiente Formatear)",
-      "path": "Fleeting Notes/Matrix multiplication (Pendiente Formatear).md"
+      "basename": "The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged",
+      "path": "Fleeting Notes/The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged.md"
     },
     {
       "basename": "Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another",
       "path": "Fleeting Notes/Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another.md"
     },
     {
-      "basename": "Linear Transformations (Pendiente formatear)",
-      "path": "Fleeting Notes/Linear Transformations (Pendiente formatear).md"
+      "basename": "The determinant measures how a matrix scales space and determines invertibility",
+      "path": "Fleeting Notes/The determinant measures how a matrix scales space and determines invertibility.md"
+    },
+    {
+      "basename": "Gaussian elimination and row reduction",
+      "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
+    },
+    {
+      "basename": "Row Echelon Form and RREF expose the structural foundation of a matrix",
+      "path": "Fleeting Notes/Row Echelon Form and RREF expose the structural foundation of a matrix.md"
+    },
+    {
+      "basename": "Matrix multiplication combines two linear transformations into a single transformation",
+      "path": "Fleeting Notes/Matrix multiplication combines two linear transformations into a single transformation.md"
+    },
+    {
+      "basename": "Linear independence ensures vectors provide non-redundant information in a vector space",
+      "path": "Fleeting Notes/Linear independence ensures vectors provide non-redundant information in a vector space.md"
     },
     {
       "basename": "The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment",
@@ -55,14 +75,6 @@
     {
       "basename": "Systems of linear equations",
       "path": "Fleeting Notes/Systems of linear equations.md"
-    },
-    {
-      "basename": "Knowledge Debt",
-      "path": "Knowlegde Debt/Knowledge Debt.md"
-    },
-    {
-      "basename": "Gaussian elimination and row reduction",
-      "path": "Fleeting Notes/Gaussian elimination and row reduction.md"
     },
     {
       "basename": "The L2 Norm (Euclidean Distance) calculates the shortest straight-line path between points",

@@ -1,3 +1,16 @@
+---
+id: "20260726163900"
+type: permanent
+subtype: concept
+created: 2026-07-26
+aliases:
+  - linear transformations
+tags:
+  - linear-algebra
+Up: "[[Matrices are collections of vectors representing tabular data or weights]]"
+---
+# Linear transformations map vectors between coordinate spaces by redefining basis vectors
+
 ## Matrices as linear transformations
 A linear transformation is a way to set each point in the plane into another point in plane in a very structured way.
 

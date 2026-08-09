@@ -2,39 +2,46 @@
 id: "202606291150"
 type: moc
 created: 2026-06-29
+modified: 2026-08-09
 tags:
+  - moc
   - linear-algebra
   - machine-learning
 ---
 # Linear Algebra for Machine Learning — Map of Content
-## Pendiente agregar a notas:
-All the possible information about a matrix:
-Singularity
-Determinant
-Rank
-Solutions
-Graphical Representation
 
-No se donde ponerlas, probablemente abajo de vectores:
-- Vector Direction Calculation
-[[Unit vectors and angles isolate a vector's direction from its magnitude]] -- Pendiente indagar en producto punto de vectores unitarios siendo lo mismo que $cos(\theta)$ de esos dos vectores.
-- Vector Operations.
-[[Vector Addition and Subtraction define the fundamental arithmetic of linear spaces]]
-[[Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action]]
-[[The Hadamard product for vectors computes their element-wise multiplication to scale individual components independently]]
-- Dot Product -- Pendiente indagar en más propiedades del producto punto y significado de sus valores, intuicion geometrica.
-  [[The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment]]
+## What is this about?
+Linear algebra is the mathematical backbone of machine learning: data becomes vectors and matrices, models become linear transformations, and training becomes solving or approximating systems of equations. This MOC tracks the path from raw building blocks (vectors, matrices, tensors) up through systems of equations, determinants, vector spaces, linear transformations, eigen-theory, orthogonality, and the ML-specific tools (norms, matrix calculus, tensor algebra, factorizations) built on top of them.
 
-- Matrix Transpose
+The numbered headings (0, 100, 200 …) form a fixed curriculum spine borrowed from a structured LA course — headings without a linked note are deliberate placeholders for topics not yet written up.
 
-- Matrix Vector Multiplication
-  [[Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another]]
-### 0. Building Blocks
+## Start here
+1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] — the umbrella concept: scalars, vectors, and matrices are all tensors of different order.
+2. [[Vectors are the foundational data structure of Machine Learning]] — how data becomes math.
+3. [[Matrices are collections of vectors representing tabular data or weights]] — how datasets and weights are stored.
+4. [[Systems of linear equations]] — why linear algebra exists in the first place.
 
-1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]] 
+## 0. Building Blocks
+
+### Tensors, vectors, matrices
+1. [[Tensors are multi-dimensional arrays that generalize vectors and matrices]]
 	1. [[Vectors are the foundational data structure of Machine Learning]]
 	2. [[Matrices are collections of vectors representing tabular data or weights]]
-### 1. Matrix Mechanics & Systems of Equations
+
+### Vector operations
+- [[Vector Addition and Subtraction define the fundamental arithmetic of linear spaces]]
+- [[Scalar multiplication scales a vector's magnitude without altering its orientation along the line of action]]
+- [[The Hadamard product for vectors computes their element-wise multiplication to scale individual components independently]]
+- [[Unit vectors and angles isolate a vector's direction from its magnitude]]
+- [[The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment]]
+
+### Matrix operations
+- [[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
+- [[Matrix multiplication combines two linear transformations into a single transformation]]
+- [[Matrix-vector multiplication represents a linear transformation mapping a vector from one space to another]]
+- [[The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged]]
+
+## 1. Matrix Mechanics & Systems of Equations
 
 1. [[Systems of linear equations]]
 	1. [[Geometric interpretation of linear systems]]
@@ -42,99 +49,113 @@ No se donde ponerlas, probablemente abajo de vectores:
 	3. [[Matrix singularity determines if a linear system is complete, redundant, or contradictory]]
 	4. [[Linear independence ensures vectors provide non-redundant information in a vector space]]
 	5. [[Gaussian elimination and row reduction]]
-	6. [[Matrix rank quantifies the number of independent dimensions in a data space]] 
+	6. [[Matrix rank quantifies the number of independent dimensions in a data space]]
 	7. [[Row Echelon Form and RREF expose the structural foundation of a matrix]]
-- **110_Matrix_Arithmetic_Operations**
-- [[Matrix multiplication (Pendiente Formatear)]]
-- **111_Matrix_Multiplication_Properties**
-[[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
-- **120_Matrix_Inverses_Definition_and_Properties**
-- **121_Algorithms_for_Computing_Matrix_Inverses**
-- **122_Elementary_Matrices**
 
-### 200 Determinants
+### 110 Matrix Arithmetic Operations
+- [[Matrix multiplication combines two linear transformations into a single transformation]]
+### 111 Matrix Multiplication Properties
+- [[The matrix transpose operation reflects a matrix over its main diagonal to exchange row and column indices]]
+### 120 Matrix Inverses — Definition and Properties
+- [[Matrix Inversion requires non-zero determinants and full rank]]
+### 121 Algorithms for Computing Matrix Inverses
+### 122 Elementary Matrices
+
+## 200 Determinants
 
 1. [[The determinant measures how a matrix scales space and determines invertibility]]
-- **201_Geometric_Meaning_of_Determinants_Area_and_Volume**
-- **202_Determinant_Calculation_Rules_and_Row_Operations**
-- **203_Cofactor_Expansion_Method**
-- **204_Cramers_Rule**
-- **205_The_Adjoint_Matrix**
+### 201 Geometric Meaning of Determinants — Area and Volume
+### 202 Determinant Calculation Rules and Row Operations
+### 203 Cofactor Expansion Method
+### 204 Cramer's Rule
+### 205 The Adjoint Matrix
 
-### 300 Vector Spaces & Subspaces
+## 300 Vector Spaces & Subspaces
 
-- **300_Vector_Spaces_Overview**
-- **301_Vector_Space_and_Subspace_Axioms**
-- **310_The_Fundamental_Subspaces_of_a_Matrix**
-- **311_Null_Space_Definition_and_Calculation**
-- **312_Column_Space_and_Row_Space**
-- **320_Linear_Combinations_and_Span**
-- **330_Linear_Independence_and_Dependence**
-- **340_Basis_Vectors_and_Dimensionality**
-- **350_Coordinate_Systems_and_Basis_Representation**
+### 300 Vector Spaces Overview
+### 301 Vector Space and Subspace Axioms
+### 310 The Fundamental Subspaces of a Matrix
+### 311 Null Space — Definition and Calculation
+### 312 Column Space and Row Space
+### 320 Linear Combinations and Span
+### 330 Linear Independence and Dependence
+### 340 Basis Vectors and Dimensionality
+### 350 Coordinate Systems and Basis Representation
 
-### 400 Linear Transformations
+## 400 Linear Transformations
 
+1. [[Linear transformations map vectors between coordinate spaces by redefining basis vectors]]
+### 401 Geometric Transformations in Vector Spaces
+### 410 Matrix Representation of Linear Transformations
+- [[Matrix multiplication combines two linear transformations into a single transformation]] — composing two transformations into one.
+### 420 Kernel and Range of a Transformation
+### 430 The Rank-Nullity Theorem
+### 440 Change of Basis Transformations
+### 450 Vector Space Isomorphisms
 
-- **400_Linear_Transformations_Overview**
-[[Linear Transformations (Pendiente formatear)]]
-- **401_Geometric_Transformations_in_Vector_Spaces**
-- **410_Matrix_Representation_of_Linear_Transformations**
-- **420_Kernel_and_Range_of_a_Transformation**
-- **430_The_Rank_Nullity_Theorem**
-- **440_Change_of_Basis_Transformations**
-- **450_Vector_Space_Isomorphisms**
+## 500 Eigen-Theory & Dynamics
 
-### 500 Eigen-Theory & Dynamics
+### 500 Eigenvalues and Eigenvectors Overview
+### 501 Geometric Intuition of Eigen Theory
+### 510 The Characteristic Equation
+### 520 Matrix Diagonalization
+### 521 Complex Eigenvalues Handling
+### 530 Eigen Theory Applications — Dynamical Systems and Markov
 
-- **500_Eigenvalues_and_Eigenvectors_Overview**
-- **501_Geometric_Intuition_of_Eigen_Theory**
-- **510_The_Characteristic_Equation**
-- **520_Matrix_Diagonalization**
-- **521_Complex_Eigenvalues_Handling**
-- **530_Eigen_Theory_Applications_Dynamical_Systems_and_Markov**
+## 600 Orthogonality & Projections
 
-### 600 Orthogonality & Projections
+### 600 Orthogonality Overview
+### 601 Inner Products and Vector Distance
+### 610 Orthogonal and Orthonormal Sets
+### 620 Orthogonal Projections onto Subspaces
+### 630 The Gram-Schmidt Orthogonalization Process
+### 640 Least Squares Approximation for Inconsistent Systems
 
-- **600_Orthogonality_Overview**
-- **601_Inner_Products_and_Vector_Distance**
-- **610_Orthogonal_and_Orthonormal_Sets**
-- **620_Orthogonal_Projections_onto_Subspaces**
-- **630_The_Gram_Schmidt_Orthogonalization_Process**
-- **640_Least_Squares_Approximation_for_Inconsistent_Systems**
+## 700 ML Specifics: Norms & Vector Metrics
 
-### 700 ML Specifics: Norms & Vector Metrics
+### 700 Vector and Matrix Norms Overview
+1. [[The L1 Norm (Manhattan Distance) calculates absolute distance strictly along grid axes]]
+	1. [[L1 Regularization (Lasso) forces feature weights to exactly zero, creating sparse models]]
+2. [[The L2 Norm (Euclidean Distance) calculates the shortest straight-line path between points]]
+	1. [[L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero]]
+### Matrix norm
 
-- **700_Vector_and_Matrix_Norms_Overview**
-1. [[The L1 Norm (Manhattan Distance) calculates absolute distance strictly along grid axes]] 
-2. [[L1 Regularization (Lasso) forces feature weights to exactly zero, creating sparse models]]
-3. [[The L2 Norm (Euclidean Distance) calculates the shortest straight-line path between points]]
-4. [[L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero]]
-Matrix norm
-### 800 ML Specifics: Matrix Calculus
+## 800 ML Specifics: Matrix Calculus
 
-- **800_Matrix_Calculus_Overview**
-- **810_The_Gradient_of_a_Vector**
-- **820_The_Jacobian_Matrix**
-- **830_Derivatives_of_Matrix_Equations**
-- **840_Chain_Rule_for_Vectors_Backpropagation_Math**
+### 800 Matrix Calculus Overview
+### 810 The Gradient of a Vector
+### 820 The Jacobian Matrix
+### 830 Derivatives of Matrix Equations
+### 840 Chain Rule for Vectors — Backpropagation Math
 
-### 900 ML Specifics: Tensor Algebra
+## 900 ML Specifics: Tensor Algebra
 
-- **900_Tensor_Algebra_Overview**
-- **901_Tensors_vs_Matrices_Dimensionality**
-- **910_Tensor_Broadcasting_Rules**
-- **920_Tensor_Contraction_Operations**
-- **930_Einstein_Summation_Convention_einsum**
+### 900 Tensor Algebra Overview
+### 901 Tensors vs Matrices — Dimensionality
+### 910 Tensor Broadcasting Rules
+### 920 Tensor Contraction Operations
+### 930 Einstein Summation Convention (einsum)
 
-### 1000 Advanced Factorizations & Numerical Methods
+## 1000 Advanced Factorizations & Numerical Methods
 
-- **1000_Matrix_Factorizations_Overview**
-- **1010_Symmetric_Matrices_and_the_Spectral_Theorem**
-- **1020_Quadratic_Forms**
-- **1030_Singular_Value_Decomposition_SVD**
-- **1031_Principal_Component_Analysis_PCA_Math_via_SVD**
-- **1040_Cholesky_Decomposition**
-- **1050_QR_Decomposition**
-- **1060_Matrix_Condition_Numbers_and_Numerical_Stability**
-- **1070_Iterative_Solvers_Conjugate_Gradient_Method**
+### 1000 Matrix Factorizations Overview
+### 1010 Symmetric Matrices and the Spectral Theorem
+### 1020 Quadratic Forms
+### 1030 Singular Value Decomposition (SVD)
+### 1031 Principal Component Analysis (PCA) — Math via SVD
+### 1040 Cholesky Decomposition
+### 1050 QR Decomposition
+### 1060 Matrix Condition Numbers and Numerical Stability
+### 1070 Iterative Solvers — Conjugate Gradient Method
+
+## Open questions / rabbit holes
+- Why is the dot product of two unit vectors the same as $\cos(\theta)$ between them? (geometric proof, see [[Unit vectors and angles isolate a vector's direction from its magnitude]])
+- More properties and geometric intuition of the dot product's sign/magnitude, see [[The dot product computes a scalar representing the projection of one vector onto another and their degree of alignment]]
+
+## External resources
+- Course:
+- Book:
+- Docs:
+
+---
+*MOC — update as your understanding grows. Let it emerge bottom-up.*

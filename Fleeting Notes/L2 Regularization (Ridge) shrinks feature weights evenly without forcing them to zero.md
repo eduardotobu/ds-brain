@@ -10,7 +10,7 @@ tags:
   - ml
   - linear-algebra
   - regularization
-Up: "[[L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero]]"
+Up: "[[The L2 Norm (Euclidean Distance) calculates the shortest straight-line path between points]]"
 ---
 # L2 Regularization (Ridge) shrinks feature weights evenly without forcing them to zero
 
@@ -60,7 +60,7 @@ print(f"Learned Weights: {ridge_model.coef_}")
 Ridge regularization is the default choice for many continuous ML models due to its mathematical stability:
 
 - **Handling Multicollinearity:** If two features are highly correlated (linearly dependent), an unregularized model might assign massive, opposing weights to them. Ridge regularization mathematically prevents this. It distributes the weight evenly between the correlated features, leading to much more stable and reliable predictions.
-- **Fixing Singular Matrices:** In Ordinary Least Squares (OLS) regression, if your design matrix $\mathbf{X}$ is singular (non-invertible), the equation crashes. The Ridge penalty alters the math to $(\mathbf{X}^T\mathbf{X} + \lambda\mathbf{I})^{-1}$. Adding the identity matrix $\mathbf{I}$ guarantees the matrix becomes full rank and invertible, artificially "curing" the singularity.
+- **Fixing Singular Matrices:** In Ordinary Least Squares (OLS) regression, if your design matrix $\mathbf{X}$ is singular (non-invertible), the equation crashes. The Ridge penalty alters the math to $(\mathbf{X}^T\mathbf{X} + \lambda\mathbf{I})^{-1}$. Adding the [[The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged|identity matrix]] $\mathbf{I}$ guarantees the matrix becomes full rank and invertible, artificially "curing" the singularity.
 - **Retaining Dense Information:** Sometimes, every single feature in your dataset contains a tiny, useful signal (e.g., pixel values in an image). You don't want to throw any away. L2 is perfect here because it prevents any single pixel from dominating the model while keeping all pixels active.
 
 **Related notes to create/link:**

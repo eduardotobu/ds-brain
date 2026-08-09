@@ -6,7 +6,7 @@ created: 2026-07-06 23:13:25
 aliases: []
 tags:
   - linear-algebra
-Up: "[[Linear Algebra for Machine Learning]]"
+Up: "[[Gaussian elimination and row reduction]]"
 ---
 # Row Echelon Form and RREF expose the structural foundation of a matrix
 
@@ -29,7 +29,7 @@ RREF is the absolute simplest form a matrix can take. It must satisfy all the co
 1. Every pivot (leading entry) must exactly equal **1**.
 2. Every pivot must be the **only non-zero entry in its entire column** (meaning entries _above_ the pivot are also cleared out to zero).
 
-If a square matrix represents a complete, non-singular system, its RREF will perfectly match the **Identity Matrix** ($\mathbf{I}$).
+If a square matrix represents a complete, non-singular system, its RREF will perfectly match the [[The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged|Identity Matrix]] ($\mathbf{I}$).
 
 ### Mathematical Representation
 
@@ -80,7 +80,7 @@ While algorithms like neural networks do not compute RREF during training, the m
 
 - **Finding Matrix Rank:** The [[Matrix rank quantifies the number of independent dimensions in a data space|rank of a matrix]] is exactly equal to the number of non-zero rows in its RREF. This tells you exactly how many linearly independent features exist in your dataset.
 - **Identifying Feature Redundancy:** By looking at the `pivot_columns` returned by RREF, you can identify exactly which feature columns in your dataset $\mathbf{X}$ are linearly independent. Any column without a pivot is a redundant linear combination of the pivot columns.
-- **Computing Inverses:** If you augment a square matrix $\mathbf{A}$ with the Identity matrix $\mathbf{I}$ and compute the RREF, the left side transforms into $\mathbf{I}$ and the right side naturally becomes the inverse matrix $\mathbf{A}^{-1}$. The inverse is necessary for the closed-form solution of Ordinary Least Squares regression.
+- **Computing Inverses:** If you augment a square matrix $\mathbf{A}$ with the [[The identity matrix acts as the multiplicative identity, leaving any vector or matrix unchanged|Identity matrix]] $\mathbf{I}$ and compute the RREF, the left side transforms into $\mathbf{I}$ and the right side naturally becomes the inverse matrix $\mathbf{A}^{-1}$. The inverse is necessary for the closed-form solution of Ordinary Least Squares regression.
 
 **Related notes to create/link:**
 

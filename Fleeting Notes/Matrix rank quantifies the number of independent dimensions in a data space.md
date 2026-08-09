@@ -6,7 +6,7 @@ created: 2026-07-06 22:44:26
 aliases: []
 tags:
   - linear-algebra
-Up: "[[Linear Algebra for Machine Learning]]"
+Up: "[[Linear independence ensures vectors provide non-redundant information in a vector space]]"
 ---
 # Matrix rank quantifies the number of independent dimensions in a data space
 

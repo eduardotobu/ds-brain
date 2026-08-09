@@ -5,7 +5,7 @@ subtype: concept
 created: 2026-07-05 18:37:44
 aliases: []
 tags:
-  - ml
+  - linear-algebra
 Up: "[[Linear Algebra for Machine Learning]]"
 ---
 # The determinant measures how a matrix scales space and determines invertibility
